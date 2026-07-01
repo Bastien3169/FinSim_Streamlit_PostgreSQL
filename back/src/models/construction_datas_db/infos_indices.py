@@ -23,7 +23,7 @@ def infos_indices(dossier_csv, csv_bdd):
     df_concat = pd.concat(dfs, ignore_index=True)
 
     # Ne garder qu'une seule ligne par indice (avec ses infos associées)
-    df_final = df_concat.drop_duplicates(subset=["Nom_Indice"])
+    df_final = df_concat.drop_duplicates(subset=["nom_indice"])
 
     
     # Enlever les colonnes qui ne ne veullent plus rien dire ici

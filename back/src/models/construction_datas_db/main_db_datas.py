@@ -1,16 +1,16 @@
 # main.py
 import os
-from src.models.datas_db import scraping_tickers
-from src.models.datas_db import composition_indices
-from src.models.datas_db import infos_indices
-from src.models.datas_db import infos_stocks
-from src.models.datas_db import infos_cryptos
-from src.models.datas_db import infos_etfs
-from src.models.datas_db import hist_indices
-from src.models.datas_db import hist_stocks
-from src.models.datas_db import hist_cryptos
-from src.models.datas_db import hist_etfs
-from src.models.datas_db import sql_datas
+from src.models.construction_datas_db import scraping_tickers
+from src.models.construction_datas_db import composition_indices
+from src.models.construction_datas_db import infos_indices
+from src.models.construction_datas_db import infos_stocks
+from src.models.construction_datas_db import infos_cryptos
+from src.models.construction_datas_db import infos_etfs
+from src.models.construction_datas_db import hist_indices
+from src.models.construction_datas_db import hist_stocks
+from src.models.construction_datas_db import hist_cryptos
+from src.models.construction_datas_db import hist_etfs
+from src.models.construction_datas_db import sql_datas
 '''
 from . import scraping_tickers  # Pour récupérer les tickers
 from . import composition_indices  # Pour obtenir les infos des entreprises par indice
@@ -49,7 +49,7 @@ def main_db_datas(dossier_csv = "csv", csv_bdd = "csv/csv_bdd"):
     print("[6/12 ✅] Les informations des cryptomonnaies ont été récupérées et sauvegardées.")
 
     # Étape 7: Récupérer et sauvegarder les informations des etfs
-    infos_etfs.infos_etf(csv_bdd)
+    infos_etfs.infos_etfs(csv_bdd)
     print("[7/12 ✅] Les informations des etfs ont été récupérées et sauvegardées.")
     
     # Étape 8: Récupérer et sauvegarder l'historique des prix des indices

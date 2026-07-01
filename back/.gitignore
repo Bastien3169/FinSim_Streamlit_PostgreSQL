@@ -22,4 +22,9 @@ __pycache__/
 *.bak
 *.tmp
 
+# Variables d'environnement
+.env
+*.env
+
+
 

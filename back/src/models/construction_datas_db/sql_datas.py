@@ -78,6 +78,7 @@ def creation_db():
                 ticker_cryptos TEXT,
                 prix_actuel NUMERIC(18,6),
                 capitalisation_boursiere NUMERIC(18,2),
+                offre_en_circulation_non_arrondie NUMERIC(18,2),
                 offre_en_circulation NUMERIC(18,2),
                 ath NUMERIC(18,6),
                 maj DATE
