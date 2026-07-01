@@ -25,6 +25,7 @@ from src.models.datas_db.datas_queries import (
     FinanceDatabaseStocks,
     FinanceDatabaseEtfs
 )
+from src.models.construction_datas_db.sql_datas import main_creation_db
 
 # ============================================
 # CONFIGURATION FASTAPI
@@ -55,6 +56,11 @@ etfs = FinanceDatabaseEtfs()
 def startup():
     auth.clean_expired_sessions()
     print("✅ Sessions expirées nettoyées au démarrage")
+
+    print("🔄 Chargement des données CSV dans la base de données...")
+    csv_path = Path(__file__).parent / "csv" / "csv_bdd"
+    main_creation_db(str(csv_path))
+    print("✅ Données CSV chargées avec succès.")
 
 # ============================================
 # MODELS PYDANTIC
