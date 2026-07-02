@@ -68,21 +68,22 @@ class FinanceDatabaseIndice:
                 """
                 df = pd.read_sql(query, conn, params=(selected_indice,))
 
-            # DEBUG TEMPORAIRE
-            print(f"🔍 [{selected_indice}] Colonnes: {df.columns.tolist()}")
-            print(f"🔍 [{selected_indice}] Doublons: {df.columns[df.columns.duplicated()].tolist()}")
-            print(f"🔍 [{selected_indice}] NaN par colonne avant clean:\n{df.isna().sum()}")
-
             df_clean = clean_df(df)
 
-            print(f"🔍 [{selected_indice}] NaN par colonne après clean:\n{df_clean.isna().sum()}")
+            # DEBUG TEMPORAIRE — vérifier le TYPE réel des valeurs manquantes
+            mask_cap = df_clean['capitalisation_boursiere'].isna()
+            mask_pond = df_clean['ponderation'].isna()
+
+            print(f"🔍 [{selected_indice}] Valeurs cap manquantes:")
+            print(df_clean.loc[mask_cap, 'capitalisation_boursiere'].apply(lambda x: (x, type(x))).tolist())
+
+            print(f"🔍 [{selected_indice}] Valeurs pond manquantes:")
+            print(df_clean.loc[mask_pond, 'ponderation'].apply(lambda x: (x, type(x))).tolist())
 
             return df_clean
         except Exception as e:
             print(f"Erreur: {e}")
             return pd.DataFrame()
-
-
 class FinanceDatabaseCryptos:
     def __init__(self):
         pass
