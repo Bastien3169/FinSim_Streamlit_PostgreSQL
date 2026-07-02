@@ -1,1 +1,21 @@
 short_name_stocks,ticker_stocks_yf,ticker_stocks,secteur_activite,pays_stocks,place_boursiere,capitalisation_boursiere,nom_indice,ticker_indice_yf,nombres_entreprises,ponderation
+AB INBEV,ABI.BR,ABI,Consumer Defensive,Belgium,BRU,137756655616.0,BEL 20,^BFX,20,35.03
+ACKERMANS V.HAAREN,ACKB.BR,ACKB,Industrials,Belgium,BRU,9093638144.0,BEL 20,^BFX,20,2.31
+AEDIFICA,AED.BR,AED,Real Estate,Belgium,BRU,5851225088.0,BEL 20,^BFX,20,1.49
+AGEAS,AGS.BR,AGS,Financial Services,Belgium,BRU,14740086784.0,BEL 20,^BFX,20,3.75
+ARGENX SE,ARGX.BR,ARGX,Healthcare,Netherlands,BRU,50247720960.0,BEL 20,^BFX,20,12.78
+Non disponible,APAM.BR,APAM,Non disponible,Non disponible,Non disponible,,BEL 20,^BFX,20,
+AZELIS GROUP NV,AZE.BR,AZE,Basic Materials,Belgium,BRU,2296285696.0,BEL 20,^BFX,20,0.58
+D'IETEREN GROUP,DIE.BR,DIE,Consumer Cyclical,Belgium,BRU,9355169792.0,BEL 20,^BFX,20,2.38
+ELIA GROUP,ELI.BR,ELI,Utilities,Belgium,BRU,14778674176.0,BEL 20,^BFX,20,3.76
+GBL,GBLB.BR,GBLB,Financial Services,Belgium,BRU,9464817664.0,BEL 20,^BFX,20,2.41
+KBC,KBC.BR,KBC,Financial Services,Belgium,BRU,48058015744.0,BEL 20,^BFX,20,12.22
+LOTUS BAKERIES,LOTB.BR,LOTB,Consumer Defensive,Belgium,BRU,9314458624.0,BEL 20,^BFX,20,2.37
+MELEXIS,MELE.BR,MELE,Technology,Belgium,BRU,3130488064.0,BEL 20,^BFX,20,0.8
+MONTEA NV,MONT.BR,MONT,Real Estate,Belgium,BRU,1575230080.0,BEL 20,^BFX,20,0.4
+SOFINA,SOF.BR,SOF,Financial Services,Belgium,BRU,8315410944.0,BEL 20,^BFX,20,2.11
+SOLVAY,SOLB.BR,SOLB,Basic Materials,Belgium,BRU,2783293184.0,BEL 20,^BFX,20,0.71
+SYENSQO,SYENS.BR,SYENS,Basic Materials,Belgium,BRU,6610120192.0,BEL 20,^BFX,20,1.68
+UCB,UCB.BR,UCB,Healthcare,Belgium,BRU,49570095104.0,BEL 20,^BFX,20,12.6
+UMICORE,UMI.BR,UMI,Industrials,Belgium,BRU,5013310464.0,BEL 20,^BFX,20,1.27
+WAREHOUSES DE PAUW,WDP.BR,WDP,Real Estate,Belgium,BRU,5344883712.0,BEL 20,^BFX,20,1.36

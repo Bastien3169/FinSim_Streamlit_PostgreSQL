@@ -1,52 +1,1065 @@
 short_name_stocks,ticker_stocks_yf,ticker_stocks,secteur_activite,pays_stocks,place_boursiere,capitalisation_boursiere,ticker_indice_yf,ponderation
-LVMH,MC.PA,MC,Consumer Cyclical,France,PAR,237369753600,^STOXX50E,4.1
-SAP SE                        I,SAP.DE,SAP,Technology,Germany,GER,164485726208,^STOXX50E,2.84
-HERMES INTL,RMS.PA,RMS,Consumer Cyclical,France,PAR,167059996672,^STOXX50E,2.89
-ASML HOLDING,ASML.AS,ASML,Technology,Netherlands,AMS,632701648896,^STOXX50E,10.93
-L'OREAL,OR.PA,OR,Consumer Defensive,France,PAR,202498031616,^STOXX50E,3.5
-INDUSTRIA DE DISE...O TEXTIL S.,ITX.MC,ITX,Consumer Cyclical,Spain,MCE,173557202944,^STOXX50E,3.0
-SIEMENS AG                    N,SIE.DE,SIE,Industrials,Germany,GER,208572186624,^STOXX50E,3.6
-DEUTSCHE TELEKOM AG           N,DTE.DE,DTE,Communication Services,Germany,GER,117515575296,^STOXX50E,2.03
-SCHNEIDER ELECTRIC SE,SU.PA,SU,Industrials,France,PAR,155581382656,^STOXX50E,2.69
-AIRBUS SE,AIR.PA,AIR,Industrials,Netherlands,PAR,156044361728,^STOXX50E,2.7
-SANOFI,SAN.PA,SAN,Healthcare,France,PAR,87432413184,^STOXX50E,1.51
-TOTALENERGIES,TTE.PA,TTE,Energy,France,PAR,146549080064,^STOXX50E,2.53
-Allianz SE                    v,ALV.DE,ALV,Financial Services,Germany,GER,157062447104,^STOXX50E,2.71
-ESSILORLUXOTTICA,EL.PA,EL,Healthcare,France,PAR,79616622592,^STOXX50E,1.38
-SAFRAN,SAF.PA,SAF,Industrials,France,PAR,145241735168,^STOXX50E,2.51
-AIR LIQUIDE,AI.PA,AI,Basic Materials,France,PAR,112103489536,^STOXX50E,1.94
-AB INBEV,ABI.BR,ABI,Consumer Defensive,Belgium,BRU,137717989376,^STOXX50E,2.38
-PROSUS,PRX.AS,PRX,Consumer Cyclical,Netherlands,AMS,81927987200,^STOXX50E,1.42
-ACCIONES IBERDROLA,IBE.MC,IBE,Utilities,Spain,MCE,141231570944,^STOXX50E,2.44
-AXA,CS.PA,CS,Financial Services,France,PAR,88488722432,^STOXX50E,1.53
-BANCO SANTANDER S.A.,SAN.MC,SAN,Financial Services,Spain,MCE,173700808704,^STOXX50E,3.0
-INTESA SANPAOLO,ISP.MI,ISP,Financial Services,Italy,MIL,104520318976,^STOXX50E,1.81
-FERRARI,RACE.MI,RACE,Consumer Cyclical,Italy,MIL,58321510400,^STOXX50E,1.01
-BNP PARIBAS ACT.A,BNP.PA,BNP,Financial Services,France,PAR,111437922304,^STOXX50E,1.93
-MUENCHENER RUECKVERS.-GES. AG N,MUV2.DE,MUV2,Financial Services,Germany,GER,62790901760,^STOXX50E,1.09
-UNICREDIT,UCG.MI,UCG,Financial Services,Italy,MIL,117884461056,^STOXX50E,2.04
-ENEL,ENEL.MI,ENEL,Utilities,Italy,MIL,98855550976,^STOXX50E,1.71
-BANCO BILBAO VIZCAYA ARGENTARIA,BBVA.MC,BBVA,Financial Services,Spain,MCE,121777061888,^STOXX50E,2.1
-VINCI,DG.PA,DG,Industrials,France,PAR,68757495808,^STOXX50E,1.19
-Mercedes-Benz Group AG        N,MBG.DE,MBG,Consumer Cyclical,Germany,GER,41921490944,^STOXX50E,0.72
-ING GROEP N.V.,INGA.AS,INGA,Financial Services,Netherlands,AMS,79089205248,^STOXX50E,1.37
-VOLKSWAGEN AG                 V,VOW3.DE,VOW3,Consumer Cyclical,Germany,GER,35060592640,^STOXX50E,0.61
-BAYERISCHE MOTOREN WERKE AG   S,BMW.DE,BMW,Consumer Cyclical,Germany,GER,35334864896,^STOXX50E,0.61
-ADYEN,ADYEN.AS,ADYEN,Technology,Netherlands,AMS,26784112640,^STOXX50E,0.46
-adidas AG                     N,ADS.DE,ADS,Consumer Cyclical,Germany,GER,32100155392,^STOXX50E,0.55
-SAINT GOBAIN,SGO.PA,SGO,Industrials,France,PAR,38435962880,^STOXX50E,0.66
-DEUTSCHE BOERSE AG            N,DB1.DE,DB1,Financial Services,Germany,GER,43541528576,^STOXX50E,0.75
-DANONE,BN.PA,BN,Consumer Defensive,France,PAR,46360748032,^STOXX50E,0.8
-INFINEON TECHNOLOGIES AG      N,IFX.DE,IFX,Technology,Germany,GER,101231026176,^STOXX50E,1.75
-BASF SE                       N,BAS.DE,BAS,Basic Materials,Germany,GER,41381998592,^STOXX50E,0.72
-ENI,ENI.MI,ENI,Energy,Italy,MIL,58656202752,^STOXX50E,1.01
-WOLTERS KLUWER,WKL.AS,WKL,Industrials,Netherlands,AMS,12771862528,^STOXX50E,0.22
-DEUTSCHE POST AG              N,DHL.DE,DHL,Industrials,Germany,GER,60260057088,^STOXX50E,1.04
-Nordea Bank Abp,NDA-SE.ST,NDA-SE,Financial Services,Finland,STO,619529699328,^STOXX50E,10.71
-STELLANTIS NV,STLAP.PA,STLAP,Consumer Cyclical,Netherlands,PAR,14907677696,^STOXX50E,0.26
-KONINKLIJKE AHOLD DELHAIZE N.V.,AD.AS,AD,Consumer Defensive,Netherlands,AMS,30999166976,^STOXX50E,0.54
-KERING,KER.PA,KER,Consumer Cyclical,France,PAR,30133706752,^STOXX50E,0.52
-PERNOD RICARD,RI.PA,RI,Consumer Defensive,France,PAR,15606877184,^STOXX50E,0.27
-Nokia Corporation,NOKIA.HE,NOKIA,Technology,Finland,HEL,63557152768,^STOXX50E,1.1
-Bayer AG                      N,BAYN.DE,BAYN,Healthcare,Germany,GER,48138780672,^STOXX50E,0.83
-ARCELORMITTAL SA,MT.AS,MT,Basic Materials,Luxembourg,AMS,39370305536,^FCHI,100.0
+3M Company,MMM,MMM,Industrials,United States,NYQ,83429900288.0,^DJI,0.31
+Alphabet Inc.,GOOGL,GOOGL,Communication Services,United States,NMS,4407691313152.0,^DJI,16.3
+American Express Company,AXP,AXP,Financial Services,United States,NYQ,237449609216.0,^DJI,0.88
+Amgen Inc.,AMGN,AMGN,Healthcare,United States,NMS,195012788224.0,^DJI,0.72
+"Amazon.com, Inc.",AMZN,AMZN,Consumer Cyclical,United States,NMS,2599993475072.0,^DJI,9.62
+Apple Inc.,AAPL,AAPL,Technology,United States,NMS,4323663937536.0,^DJI,15.99
+Boeing Company (The),BA,BA,Industrials,United States,NYQ,172307120128.0,^DJI,0.64
+"Caterpillar, Inc.",CAT,CAT,Industrials,United States,NYQ,456635482112.0,^DJI,1.69
+Chevron Corporation,CVX,CVX,Energy,United States,NYQ,329987817472.0,^DJI,1.22
+"Cisco Systems, Inc.",CSCO,CSCO,Technology,United States,NMS,461187284992.0,^DJI,1.71
+Coca-Cola Company (The),KO,KO,Consumer Defensive,United States,NYQ,349748789248.0,^DJI,1.29
+Walt Disney Company (The),DIS,DIS,Communication Services,United States,NYQ,166201507840.0,^DJI,0.61
+"Goldman Sachs Group, Inc. (The)",GS,GS,Financial Services,United States,NYQ,300792512512.0,^DJI,1.11
+"Home Depot, Inc. (The)",HD,HD,Consumer Cyclical,United States,NYQ,349828415488.0,^DJI,1.29
+Honeywell International Inc.,HON,HON,Industrials,United States,NMS,70256287744.0,^DJI,0.26
+International Business Machines,IBM,IBM,Technology,United States,NYQ,269042171904.0,^DJI,1.0
+Johnson & Johnson,JNJ,JNJ,Healthcare,United States,NYQ,611384950784.0,^DJI,2.26
+JP Morgan Chase & Co.,JPM,JPM,Financial Services,United States,NYQ,895144361984.0,^DJI,3.31
+McDonald's Corporation,MCD,MCD,Consumer Cyclical,United States,NYQ,191431589888.0,^DJI,0.71
+"Merck & Company, Inc.",MRK,MRK,Healthcare,United States,NYQ,309641904128.0,^DJI,1.15
+Microsoft Corporation,MSFT,MSFT,Technology,United States,NMS,2854599000064.0,^DJI,10.56
+"Nike, Inc.",NKE,NKE,Consumer Cyclical,United States,NYQ,63766999040.0,^DJI,0.24
+NVIDIA Corporation,NVDA,NVDA,Technology,United States,NMS,4785584996352.0,^DJI,17.7
+Procter & Gamble Company (The),PG,PG,Consumer Defensive,United States,NYQ,343305355264.0,^DJI,1.27
+"Salesforce, Inc.",CRM,CRM,Technology,United States,NYQ,133685362688.0,^DJI,0.49
+Sherwin-Williams Company (The),SHW,SHW,Basic Materials,United States,NYQ,85348253696.0,^DJI,0.32
+"The Travelers Companies, Inc.",TRV,TRV,Financial Services,United States,NYQ,71155163136.0,^DJI,0.26
+UnitedHealth Group Incorporated,UNH,UNH,Healthcare,United States,NYQ,387359899648.0,^DJI,1.43
+Visa Inc.,V,V,Financial Services,United States,NYQ,667664187392.0,^DJI,2.47
+Walmart Inc.,WMT,WMT,Consumer Defensive,United States,NMS,865998143488.0,^DJI,3.2
+Adobe Inc.,ADBE,ADBE,Technology,United States,NMS,83864551424.0,^NDX,0.21
+"Advanced Micro Devices, Inc.",AMD,AMD,Technology,United States,NMS,881959239680.0,^NDX,2.23
+"Airbnb, Inc.",ABNB,ABNB,Consumer Cyclical,United States,NMS,87429201920.0,^NDX,0.22
+"Alnylam Pharmaceuticals, Inc.",ALNY,ALNY,Healthcare,United States,NMS,40276742144.0,^NDX,0.1
+Alphabet Inc.,GOOGL,GOOGL,Communication Services,United States,NMS,4407691313152.0,^NDX,11.14
+"Amazon.com, Inc.",AMZN,AMZN,Consumer Cyclical,United States,NMS,2599993475072.0,^NDX,6.57
+American Electric Power Company,AEP,AEP,Utilities,United States,NMS,73481388032.0,^NDX,0.19
+Amgen Inc.,AMGN,AMGN,Healthcare,United States,NMS,195012788224.0,^NDX,0.49
+"Analog Devices, Inc.",ADI,ADI,Technology,United States,NMS,189467115520.0,^NDX,0.48
+Apple Inc.,AAPL,AAPL,Technology,United States,NMS,4323663937536.0,^NDX,10.92
+"Applied Materials, Inc.",AMAT,AMAT,Technology,United States,NMS,516796121088.0,^NDX,1.31
+Applovin Corporation,APP,APP,Communication Services,United States,NMS,189674815488.0,^NDX,0.48
+Arm Holdings plc,ARM,ARM,Technology,United Kingdom,NMS,360444559360.0,^NDX,0.91
+ASML Holding N.V. - New York Re,ASML,ASML,Technology,Netherlands,NMS,710340182016.0,^NDX,1.79
+"Astera Labs, Inc.",ALAB,ALAB,Technology,United States,NMS,73852821504.0,^NDX,0.19
+"Autodesk, Inc.",ADSK,ADSK,Technology,United States,NMS,42178371584.0,^NDX,0.11
+"Automatic Data Processing, Inc.",ADP,ADP,Technology,United States,NMS,94229356544.0,^NDX,0.24
+"Axon Enterprise, Inc.",AXON,AXON,Industrials,United States,NMS,47874412544.0,^NDX,0.12
+Baker Hughes Company,BKR,BKR,Energy,United States,NMS,53393137664.0,^NDX,0.13
+Booking Holdings Inc. Common St,BKNG,BKNG,Consumer Cyclical,United States,NMS,141523795968.0,^NDX,0.36
+Broadcom Inc.,AVGO,AVGO,Technology,United States,NMS,1757164732416.0,^NDX,4.44
+"Cadence Design Systems, Inc.",CDNS,CDNS,Technology,United States,NMS,104183980032.0,^NDX,0.26
+Cintas Corporation,CTAS,CTAS,Industrials,United States,NMS,69715853312.0,^NDX,0.18
+"Cisco Systems, Inc.",CSCO,CSCO,Technology,United States,NMS,461187284992.0,^NDX,1.17
+Coca-Cola Europacific Partners ,CCEP,CCEP,Consumer Defensive,United Kingdom,NMS,46978646016.0,^NDX,0.12
+Comcast Corporation,CMCSA,CMCSA,Communication Services,United States,NMS,84768980992.0,^NDX,0.21
+Constellation Energy Corporatio,CEG,CEG,Utilities,United States,NMS,84454629376.0,^NDX,0.21
+"Copart, Inc.",CPRT,CPRT,Industrials,United States,NMS,27733649408.0,^NDX,0.07
+"CoreWeave, Inc.",CRWV,CRWV,Technology,United States,NMS,46747197440.0,^NDX,0.12
+Costco Wholesale Corporation,COST,COST,Consumer Defensive,United States,NMS,410071564288.0,^NDX,1.04
+"CrowdStrike Holdings, Inc.",CRWD,CRWD,Technology,United States,NMS,786849660928.0,^NDX,1.99
+CSX Corporation,CSX,CSX,Industrials,United States,NMS,89803857920.0,^NDX,0.23
+"Datadog, Inc.",DDOG,DDOG,Technology,United States,NMS,94144356352.0,^NDX,0.24
+"DexCom, Inc.",DXCM,DXCM,Healthcare,United States,NMS,26571214848.0,^NDX,0.07
+"Diamondback Energy, Inc.",FANG,FANG,Energy,United States,NMS,48374640640.0,^NDX,0.12
+"DoorDash, Inc.",DASH,DASH,Consumer Cyclical,United States,NMS,82294194176.0,^NDX,0.21
+Electronic Arts Inc.,EA,EA,Communication Services,United States,NMS,51516891136.0,^NDX,0.13
+Exelon Corporation,EXC,EXC,Utilities,United States,NMS,47333605376.0,^NDX,0.12
+Fastenal Company,FAST,FAST,Industrials,United States,NMS,54818676736.0,^NDX,0.14
+Ferrovial N.V.,FER,FER,Industrials,Netherlands,NMS,48137060352.0,^NDX,0.12
+"Fortinet, Inc.",FTNT,FTNT,Technology,United States,NMS,116476436480.0,^NDX,0.29
+GE HealthCare Technologies Inc.,GEHC,GEHC,Healthcare,United States,NMS,29504280576.0,^NDX,0.07
+"Gilead Sciences, Inc.",GILD,GILD,Healthcare,United States,NMS,156400566272.0,^NDX,0.4
+Honeywell International Inc.,HON,HON,Industrials,United States,NMS,70256287744.0,^NDX,0.18
+"IDEXX Laboratories, Inc.",IDXX,IDXX,Healthcare,United States,NMS,42405924864.0,^NDX,0.11
+Intel Corporation,INTC,INTC,Technology,United States,NMS,638402494464.0,^NDX,1.61
+Intuit Inc.,INTU,INTU,Technology,United States,NMS,73056256000.0,^NDX,0.18
+"Intuitive Surgical, Inc.",ISRG,ISRG,Healthcare,United States,NMS,142508048384.0,^NDX,0.36
+Keurig Dr Pepper Inc.,KDP,KDP,Consumer Defensive,United States,NMS,45401870336.0,^NDX,0.11
+KLA Corporation,KLAC,KLAC,Technology,United States,NMS,347717402624.0,^NDX,0.88
+The Kraft Heinz Company,KHC,KHC,Consumer Defensive,United States,NMS,29656299520.0,^NDX,0.07
+Lam Research Corporation,LRCX,LRCX,Technology,United States,NMS,489298427904.0,^NDX,1.24
+Linde plc,LIN,LIN,Basic Materials,United Kingdom,NMS,246685401088.0,^NDX,0.62
+Lumentum Holdings Inc.,LITE,LITE,Technology,United States,NMS,62330245120.0,^NDX,0.16
+Marriott International,MAR,MAR,Consumer Cyclical,United States,NMS,97121796096.0,^NDX,0.25
+"Marvell Technology, Inc.",MRVL,MRVL,Technology,United States,NMS,238194229248.0,^NDX,0.6
+"MercadoLibre, Inc.",MELI,MELI,Consumer Cyclical,Uruguay,NMS,88324120576.0,^NDX,0.22
+"Meta Platforms, Inc.",META,META,Communication Services,United States,NMS,1555824902144.0,^NDX,3.93
+Microchip Technology Incorporat,MCHP,MCHP,Technology,United States,NMS,48077012992.0,^NDX,0.12
+"Micron Technology, Inc.",MU,MU,Technology,United States,NMS,1165850050560.0,^NDX,2.95
+Microsoft Corporation,MSFT,MSFT,Technology,United States,NMS,2854599000064.0,^NDX,7.21
+Strategy Inc,MSTR,MSTR,Technology,United States,NMS,33412001792.0,^NDX,0.08
+"Mondelez International, Inc.",MDLZ,MDLZ,Consumer Defensive,United States,NMS,76184616960.0,^NDX,0.19
+"Monolithic Power Systems, Inc.",MPWR,MPWR,Technology,United States,NMS,65427894272.0,^NDX,0.17
+Monster Beverage Corporation,MNST,MNST,Consumer Defensive,United States,NMS,95209086976.0,^NDX,0.24
+Nebius Group N.V.,NBIS,NBIS,Communication Services,Netherlands,NMS,58188386304.0,^NDX,0.15
+"Netflix, Inc.",NFLX,NFLX,Communication Services,United States,NMS,312399167488.0,^NDX,0.79
+NVIDIA Corporation,NVDA,NVDA,Technology,United States,NMS,4785584996352.0,^NDX,12.09
+NXP Semiconductors N.V.,NXPI,NXPI,Technology,Netherlands,NMS,70484869120.0,^NDX,0.18
+"O'Reilly Automotive, Inc.",ORLY,ORLY,Consumer Cyclical,United States,NMS,76813598720.0,^NDX,0.19
+"Old Dominion Freight Line, Inc.",ODFL,ODFL,Industrials,United States,NMS,45328769024.0,^NDX,0.11
+PACCAR Inc.,PCAR,PCAR,Industrials,United States,NMS,63806943232.0,^NDX,0.16
+Palantir Technologies Inc.,PLTR,PLTR,Technology,United States,NMS,301414055936.0,^NDX,0.76
+"Palo Alto Networks, Inc.",PANW,PANW,Technology,United States,NMS,286912610304.0,^NDX,0.72
+"Paychex, Inc.",PAYX,PAYX,Technology,United States,NMS,36523675648.0,^NDX,0.09
+"PayPal Holdings, Inc.",PYPL,PYPL,Financial Services,United States,NMS,38874386432.0,^NDX,0.1
+PDD Holdings Inc.,PDD,PDD,Consumer Cyclical,Ireland,NMS,117458673664.0,^NDX,0.3
+"Pepsico, Inc.",PEP,PEP,Consumer Defensive,United States,NMS,192957382656.0,^NDX,0.49
+QUALCOMM Incorporated,QCOM,QCOM,Technology,United States,NMS,191743672320.0,^NDX,0.48
+"Regeneron Pharmaceuticals, Inc.",REGN,REGN,Healthcare,United States,NMS,65495035904.0,^NDX,0.17
+Rocket Lab Corporation,RKLB,RKLB,Industrials,United States,NMS,62525612032.0,^NDX,0.16
+"Roper Technologies, Inc.",ROP,ROP,Technology,United States,NMS,35793367040.0,^NDX,0.09
+"Ross Stores, Inc.",ROST,ROST,Consumer Cyclical,United States,NMS,67973509120.0,^NDX,0.17
+Sandisk Corporation,SNDK,SNDK,Technology,United States,NMS,300950978560.0,^NDX,0.76
+Seagate Technology Holdings PLC,STX,STX,Technology,Singapore,NMS,205212139520.0,^NDX,0.52
+Shopify Inc.,SHOP,SHOP,Technology,Canada,NMS,157833740288.0,^NDX,0.4
+Starbucks Corporation,SBUX,SBUX,Consumer Cyclical,United States,NMS,117833580544.0,^NDX,0.3
+"Synopsys, Inc.",SNPS,SNPS,Technology,United States,NMS,87033102336.0,^NDX,0.22
+"T-Mobile US, Inc.",TMUS,TMUS,Communication Services,United States,NMS,187286339584.0,^NDX,0.47
+"Take-Two Interactive Software, ",TTWO,TTWO,Communication Services,United States,NMS,46476079104.0,^NDX,0.12
+"Teradyne, Inc.",TER,TER,Technology,United States,NMS,66896728064.0,^NDX,0.17
+"Tesla, Inc.",TSLA,TSLA,Consumer Cyclical,United States,NMS,1597309321216.0,^NDX,4.04
+Texas Instruments Incorporated,TXN,TXN,Technology,United States,NMS,271580790784.0,^NDX,0.69
+Thomson Reuters Corp,TRI,TRI,Industrials,Canada,NMS,37066514432.0,^NDX,0.09
+Vertex Pharmaceuticals Incorpor,VRTX,VRTX,Healthcare,United States,NMS,126397644800.0,^NDX,0.32
+Walmart Inc.,WMT,WMT,Consumer Defensive,United States,NMS,865998143488.0,^NDX,2.19
+"Warner Bros. Discovery, Inc. - ",WBD,WBD,Communication Services,United States,NMS,67216334848.0,^NDX,0.17
+Western Digital Corporation,WDC,WDC,Technology,United States,NMS,206247460864.0,^NDX,0.52
+"Workday, Inc.",WDAY,WDAY,Technology,United States,NMS,32173236224.0,^NDX,0.08
+Xcel Energy Inc.,XEL,XEL,Utilities,United States,NMS,49754284032.0,^NDX,0.13
+3I GROUP PLC ORD 73 19/22P,III.L,III,Financial Services,United Kingdom,LSE,25415854080.0,^FTSE,0.93
+ABERDEEN GROUP PLC ORD 13 61/63,ABDN.L,ABDN,Financial Services,United Kingdom,LSE,4430606336.0,^FTSE,0.16
+ADMIRAL GROUP PLC ORD 0.1P,ADM.L,ADM,Financial Services,United Kingdom,LSE,10838187008.0,^FTSE,0.4
+AIRTEL AFRICA PLC ORD USD0.50,AAF.L,AAF,Communication Services,United Kingdom,LSE,12090624000.0,^FTSE,0.44
+ALLIANCE WITAN PLC ORD 2.5P,ALW.L,ALW,Non disponible,Non disponible,LSE,5013831168.0,^FTSE,0.18
+ANGLO AMERICAN PLC ORD USD0.623,AAL.L,AAL,Basic Materials,United Kingdom,LSE,39495045120.0,^FTSE,1.45
+ANTOFAGASTA PLC ORD 5P,ANTO.L,ANTO,Basic Materials,United Kingdom,LSE,36900618240.0,^FTSE,1.36
+ASSOCIATED BRITISH FOODS PLC OR,ABF.L,ABF,Consumer Defensive,United Kingdom,LSE,13489147904.0,^FTSE,0.5
+ASTRAZENECA PLC ORD SHS $0.25,AZN.L,AZN,Healthcare,United Kingdom,LSE,218206322688.0,^FTSE,8.02
+AUTOTRADER GROUP PLC ORD 1P,AUTO.L,AUTO,Communication Services,United Kingdom,LSE,4017969664.0,^FTSE,0.15
+AVIVA PLC ORD 32 17/19P,AV.L,AV,Financial Services,United Kingdom,LSE,19834064896.0,^FTSE,0.73
+BABCOCK INTERNATIONAL GROUP PLC,BAB.L,BAB,Industrials,United Kingdom,LSE,5020623360.0,^FTSE,0.18
+BAE SYSTEMS PLC ORD 2.5P,BA.L,BA,Industrials,United Kingdom,LSE,56753233920.0,^FTSE,2.09
+BARCLAYS PLC ORD 25P,BARC.L,BARC,Financial Services,United Kingdom,LSE,69833711616.0,^FTSE,2.57
+BARRATT REDROW PLC ORD 10P,BTRW.L,BTRW,Consumer Cyclical,United Kingdom,LSE,3875245312.0,^FTSE,0.14
+BEAZLEY PLC ORD 5P,BEZ.L,BEZ,Financial Services,United Kingdom,LSE,7612696576.0,^FTSE,0.28
+BP PLC $0.25,BP.L,BP,Energy,United Kingdom,LSE,71172186112.0,^FTSE,2.62
+BRITISH AMERICAN TOBACCO PLC OR,BATS.L,BATS,Consumer Defensive,United Kingdom,LSE,99516686336.0,^FTSE,3.66
+BRITISH LAND COMPANY PLC ORD 25,BLND.L,BLND,Real Estate,United Kingdom,LSE,4232949504.0,^FTSE,0.16
+BT GROUP PLC ORD 5P,BT-A.L,BT-A,Communication Services,United Kingdom,LSE,18484998144.0,^FTSE,0.68
+BUNZL PLC ORD 32 1/7P,BNZL.L,BNZL,Consumer Defensive,United Kingdom,LSE,8546961920.0,^FTSE,0.31
+BURBERRY GROUP PLC ORD 0.05P,BRBY.L,BRBY,Consumer Cyclical,United Kingdom,LSE,3824563200.0,^FTSE,0.14
+CENTRICA PLC ORD 6 14/81P,CNA.L,CNA,Utilities,United Kingdom,LSE,7674151424.0,^FTSE,0.28
+COCA-COLA EUROPACIFIC PARTNERS ,CCEP.L,CCEP,Consumer Defensive,United Kingdom,LSE,35554996224.0,^FTSE,1.31
+COCA-COLA HBC AG ORD CHF6.70 (C,CCH.L,CCH,Consumer Defensive,Switzerland,LSE,18458451968.0,^FTSE,0.68
+COMPASS GROUP PLC ORD 11 1/20P,CPG.L,CPG,Consumer Cyclical,United Kingdom,LSE,56042323968.0,^FTSE,2.06
+COMPUTACENTER PLC ORD 7 5/9P,CCC.L,CCC,Technology,United Kingdom,LSE,4552671232.0,^FTSE,0.17
+CONVATEC GROUP PLC ORD 10P,CTEC.L,CTEC,Healthcare,United Kingdom,LSE,4291982080.0,^FTSE,0.16
+CRODA INTERNATIONAL PLC ORD 10.,CRDA.L,CRDA,Basic Materials,United Kingdom,LSE,4172262912.0,^FTSE,0.15
+DCC PLC ORD EUR0.25 (CDI),DCC.L,DCC,Energy,Ireland,LSE,5287754240.0,^FTSE,0.19
+DIAGEO PLC ORD 28 101/108P,DGE.L,DGE,Consumer Defensive,United Kingdom,LSE,33465178112.0,^FTSE,1.23
+DIPLOMA PLC ORD 5P,DPLM.L,DPLM,Industrials,United Kingdom,LSE,9574371328.0,^FTSE,0.35
+ENDEAVOUR MINING PLC ORD USD0.0,EDV.L,EDV,Basic Materials,United Kingdom,LSE,9290402816.0,^FTSE,0.34
+ENTAIN PLC ORD EUR0.01,ENT.L,ENT,Consumer Cyclical,Isle of Man,LSE,3500297728.0,^FTSE,0.13
+EXPERIAN PLC ORD USD0.10,EXPN.L,EXPN,Industrials,Ireland,LSE,22868574208.0,^FTSE,0.84
+F&C INVESTMENT TRUST PLC ORD 6.,FCIT.L,FCIT,Non disponible,Non disponible,LSE,6506621952.0,^FTSE,0.24
+FRESNILLO PLC ORD USD0.50,FRES.L,FRES,Basic Materials,Mexico,LSE,20426688512.0,^FTSE,0.75
+GAMES WORKSHOP GROUP PLC ORD 5P,GAW.L,GAW,Consumer Cyclical,United Kingdom,LSE,7131033088.0,^FTSE,0.26
+GLENCORE PLC ORD USD0.01,GLEN.L,GLEN,Basic Materials,Switzerland,LSE,59291652096.0,^FTSE,2.18
+GSK PLC ORD 31 1/4P,GSK.L,GSK,Healthcare,United Kingdom,LSE,78289362944.0,^FTSE,2.88
+HALEON PLC ORD GBP0.01,HLN.L,HLN,Healthcare,United Kingdom,LSE,31466194944.0,^FTSE,1.16
+HALMA PLC ORD 10P,HLMA.L,HLMA,Industrials,United Kingdom,LSE,15054256128.0,^FTSE,0.55
+HISCOX LTD ORD 6.5P (DI),HSX.L,HSX,Financial Services,Bermuda,LSE,5890970112.0,^FTSE,0.22
+HOWDEN JOINERY GROUP PLC ORD 10,HWDN.L,HWDN,Consumer Cyclical,United Kingdom,LSE,4505638400.0,^FTSE,0.17
+HSBC HOLDINGS PLC ORD $0.50 (UK,HSBA.L,HSBA,Financial Services,United Kingdom,LSE,245973909504.0,^FTSE,9.05
+ICG PLC ORD 26 1/4P,ICG.L,ICG,Financial Services,United Kingdom,LSE,4961424896.0,^FTSE,0.18
+IG GROUP HOLDINGS PLC ORD 0.005,IGG.L,IGG,Financial Services,United Kingdom,LSE,6071649792.0,^FTSE,0.22
+INTERCONTINENTAL HOTELS GROUP P,IHG.L,IHG,Consumer Cyclical,United Kingdom,LSE,24867821568.0,^FTSE,0.91
+IMI PLC ORD 28 4/7P,IMI.L,IMI,Industrials,United Kingdom,LSE,6906101760.0,^FTSE,0.25
+IMPERIAL BRANDS PLC ORD 10P,IMB.L,IMB,Consumer Defensive,United Kingdom,LSE,21501298688.0,^FTSE,0.79
+INFORMA PLC ORD 0.1P,INF.L,INF,Communication Services,United Kingdom,LSE,11447678976.0,^FTSE,0.42
+INTERNATIONAL CONSOLIDATED AIRL,IAG.L,IAG,Industrials,United Kingdom,LSE,21038383104.0,^FTSE,0.77
+INTERTEK GROUP PLC ORD 1P,ITRK.L,ITRK,Industrials,United Kingdom,LSE,8910454784.0,^FTSE,0.33
+INVESTEC PLC ORD GBP0.0002,INVP.L,INVP,Financial Services,South Africa,LSE,3789553920.0,^FTSE,0.14
+JD SPORTS FASHION PLC ORD 0.05P,JD.L,JD,Consumer Cyclical,United Kingdom,LSE,3985521664.0,^FTSE,0.15
+LION FINANCE GROUP PLC ORD 1P,BGEO.L,BGEO,Financial Services,United Kingdom,LSE,4970287104.0,^FTSE,0.18
+KINGFISHER PLC ORD 15 5/7P,KGF.L,KGF,Consumer Cyclical,United Kingdom,LSE,4656257536.0,^FTSE,0.17
+LAND SECURITIES GROUP PLC ORD 1,LAND.L,LAND,Real Estate,United Kingdom,LSE,4831614976.0,^FTSE,0.18
+LEGAL & GENERAL GROUP PLC ORD 2,LGEN.L,LGEN,Financial Services,United Kingdom,LSE,15842386944.0,^FTSE,0.58
+LLOYDS BANKING GROUP PLC ORD 10,LLOY.L,LLOY,Financial Services,United Kingdom,LSE,65768243200.0,^FTSE,2.42
+LONDONMETRIC PROPERTY PLC ORD 1,LMP.L,LMP,Real Estate,United Kingdom,LSE,4401140736.0,^FTSE,0.16
+LONDON STOCK EXCHANGE GROUP PLC,LSEG.L,LSEG,Financial Services,United Kingdom,LSE,41095200768.0,^FTSE,1.51
+M&G PLC,MNG.L,MNG,Financial Services,United Kingdom,LSE,8033198592.0,^FTSE,0.3
+MARKS AND SPENCER GROUP PLC ORD,MKS.L,MKS,Consumer Cyclical,United Kingdom,LSE,7857717248.0,^FTSE,0.29
+MELROSE INDUSTRIES PLC ORD GBP0,MRO.L,MRO,Industrials,United Kingdom,LSE,6038025728.0,^FTSE,0.22
+METLEN ENERGY & METALS PLC ORD ,MTLN.L,MTLN,Utilities,Greece,LSE,6022988800.0,^FTSE,0.22
+NATIONAL GRID PLC ORD 12 204/47,NG.L,NG,Utilities,United Kingdom,LSE,60604157952.0,^FTSE,2.23
+NATWEST GROUP PLC ORD 107.69P,NWG.L,NWG,Financial Services,United Kingdom,LSE,53719375872.0,^FTSE,1.98
+NEXT PLC ORD 10P,NXT.L,NXT,Consumer Cyclical,United Kingdom,LSE,16631952384.0,^FTSE,0.61
+PEARSON PLC ORD 25P,PSON.L,PSON,Communication Services,United Kingdom,LSE,7412129280.0,^FTSE,0.27
+PERSHING SQUARE HOLDINGS LTD OR,PSH.L,PSH,Financial Services,United States,LSE,6687370752.0,^FTSE,0.25
+PERSIMMON PLC ORD 10P,PSN.L,PSN,Consumer Cyclical,United Kingdom,LSE,3356835840.0,^FTSE,0.12
+POLAR CAPITAL TECHNOLOGY TRUST ,PCT.L,PCT,Non disponible,Non disponible,LSE,7678461440.0,^FTSE,0.28
+PRUDENTIAL PLC ORD 5P,PRU.L,PRU,Financial Services,Hong Kong,LSE,25717309440.0,^FTSE,0.95
+RECKITT BENCKISER GROUP PLC ORD,RKT.L,RKT,Consumer Defensive,United Kingdom,LSE,32082665472.0,^FTSE,1.18
+RELX PLC ORD 14 51/116P,REL.L,REL,Industrials,United Kingdom,LSE,40536604672.0,^FTSE,1.49
+RENTOKIL INITIAL PLC ORD 1P,RTO.L,RTO,Industrials,United Kingdom,LSE,11033711616.0,^FTSE,0.41
+RIO TINTO PLC ORD 10P,RIO.L,RIO,Basic Materials,United Kingdom,LSE,113691287552.0,^FTSE,4.18
+ROLLS-ROYCE HOLDINGS PLC ORD SH,RR.L,RR,Industrials,United Kingdom,LSE,122098098176.0,^FTSE,4.49
+THE SAGE GROUP PLC ORD 1 4/77P,SGE.L,SGE,Technology,United Kingdom,LSE,7471075328.0,^FTSE,0.27
+SAINSBURY (J) PLC ORD 28 4/7P,SBRY.L,SBRY,Consumer Defensive,United Kingdom,LSE,7383622144.0,^FTSE,0.27
+SCHRODERS PLC ORD 20P,SDR.L,SDR,Financial Services,United Kingdom,LSE,9153213440.0,^FTSE,0.34
+SCOTTISH MORTGAGE INVESTMENT TR,SMT.L,SMT,Non disponible,Non disponible,LSE,16276909056.0,^FTSE,0.6
+SEGRO PLC ORD 10P,SGRO.L,SGRO,Real Estate,United Kingdom,LSE,11922262016.0,^FTSE,0.44
+SEVERN TRENT PLC ORD 97 17/19P,SVT.L,SVT,Utilities,United Kingdom,LSE,8859398144.0,^FTSE,0.33
+SHELL PLC ORD EUR0.07,SHEL.L,SHEL,Energy,United Kingdom,LSE,160002834432.0,^FTSE,5.88
+SMITHS GROUP PLC ORD 37.5P,SMIN.L,SMIN,Industrials,United Kingdom,LSE,7686044160.0,^FTSE,0.28
+SMITH & NEPHEW PLC ORD USD0.20,SN.L,SN,Healthcare,United Kingdom,LSE,9253146624.0,^FTSE,0.34
+SPIRAX GROUP PLC ORD 26 12/13P,SPX.L,SPX,Industrials,United Kingdom,LSE,4977531904.0,^FTSE,0.18
+SSE PLC ORD 50P,SSE.L,SSE,Utilities,United Kingdom,LSE,28975169536.0,^FTSE,1.07
+STANDARD CHARTERED PLC ORD USD0,STAN.L,STAN,Financial Services,United Kingdom,LSE,45057105920.0,^FTSE,1.66
+STANDARD LIFE PLC ORD 10P,SDLF.L,SDLF,Financial Services,United Kingdom,LSE,8456712192.0,^FTSE,0.31
+ST. JAMES'S PLACE PLC ORD 15P,STJ.L,STJ,Financial Services,United Kingdom,LSE,6332128256.0,^FTSE,0.23
+TESCO PLC ORD 6 1/3P,TSCO.L,TSCO,Consumer Defensive,United Kingdom,LSE,29448187904.0,^FTSE,1.08
+TRITAX BIG BOX REIT PLC ORD 1P,BBOX.L,BBOX,Non disponible,Non disponible,LSE,4386628096.0,^FTSE,0.16
+UNILEVER PLC ORD 3.5P,ULVR.L,ULVR,Consumer Defensive,United Kingdom,LSE,98681331712.0,^FTSE,3.63
+UNITED UTILITIES GROUP PLC ORD ,UU.L,UU,Utilities,United Kingdom,LSE,9768662016.0,^FTSE,0.36
+VODAFONE GROUP PLC ORD USD0.20 ,VOD.L,VOD,Communication Services,United Kingdom,LSE,22801078272.0,^FTSE,0.84
+WEIR GROUP PLC ORD 12.5P,WEIR.L,WEIR,Industrials,United Kingdom,LSE,6344918528.0,^FTSE,0.23
+WHITBREAD PLC ORD 76 122/153P,WTB.L,WTB,Consumer Cyclical,United Kingdom,LSE,3971282944.0,^FTSE,0.15
+ABN AMRO BANK N.V.,ABN.AS,ABN,Financial Services,Netherlands,AMS,30771972096.0,^AEX,1.97
+ADYEN,ADYEN.AS,ADYEN,Technology,Netherlands,AMS,26676887552.0,^AEX,1.7
+AEGON,AGN.AS,AGN,Financial Services,Netherlands,AMS,11446792192.0,^AEX,0.73
+KONINKLIJKE AHOLD DELHAIZE N.V.,AD.AS,AD,Consumer Defensive,Netherlands,AMS,31722127360.0,^AEX,2.03
+AKZO NOBEL,AKZA.AS,AKZA,Basic Materials,Netherlands,AMS,10288278528.0,^AEX,0.66
+ARCELORMITTAL SA,MT.AS,MT,Basic Materials,Luxembourg,AMS,40747208704.0,^AEX,2.6
+ASM International N.V.,ASM.AS,ASM,Technology,Netherlands,AMS,47008845824.0,^AEX,3.0
+ASML HOLDING,ASML.AS,ASML,Technology,Netherlands,AMS,620753649664.0,^AEX,39.64
+ASR NEDERLAND,ASRNL.AS,ASRNL,Financial Services,Netherlands,AMS,13748965376.0,^AEX,0.88
+BE Semiconductor Industries N.V,BESI.AS,BESI,Technology,Netherlands,AMS,21754382336.0,^AEX,1.39
+DSM FIRMENICH AG,DSFIR.AS,DSFIR,Basic Materials,Switzerland,AMS,20463749120.0,^AEX,1.31
+EXOR,EXO.AS,EXO,Industrials,Netherlands,AMS,22382911488.0,^AEX,1.43
+HEINEKEN,HEIA.AS,HEIA,Consumer Defensive,Netherlands,AMS,42124111872.0,^AEX,2.69
+IMCD,IMCD.AS,IMCD,Basic Materials,Netherlands,AMS,4780478976.0,^AEX,0.31
+ING GROEP N.V.,INGA.AS,INGA,Financial Services,Netherlands,AMS,80248078336.0,^AEX,5.12
+KPN KON,KPN.AS,KPN,Communication Services,Netherlands,AMS,15877889024.0,^AEX,1.01
+NN GROUP,NN.AS,NN,Financial Services,Netherlands,AMS,19895945216.0,^AEX,1.27
+KON.PHILIPS N.V.,PHIA.AS,PHIA,Healthcare,Netherlands,AMS,23317864448.0,^AEX,1.49
+PROSUS,PRX.AS,PRX,Consumer Cyclical,Netherlands,AMS,79477604352.0,^AEX,5.08
+Randstad N.V.,RAND.AS,RAND,Industrials,Netherlands,AMS,4688009728.0,^AEX,0.3
+RELX,REN.AS,REN,Industrials,United Kingdom,AMS,47502737408.0,^AEX,3.03
+SHELL PLC,SHELL.AS,SHELL,Energy,United Kingdom,AMS,187270381568.0,^AEX,11.96
+UNIVERSAL MUSIC GROUP,UMG.AS,UMG,Communication Services,Netherlands,AMS,34918744064.0,^AEX,2.23
+UNILEVER PLC,UNA.AS,UNA,Consumer Defensive,United Kingdom,AMS,115467378688.0,^AEX,7.37
+WOLTERS KLUWER,WKL.AS,WKL,Industrials,Netherlands,AMS,12602166272.0,^AEX,0.8
+LVMH,MC.PA,MC,Consumer Cyclical,France,PAR,242946211840.0,^STOXX50E,4.17
+SAP SE                        I,SAP.DE,SAP,Technology,Germany,GER,163434905600.0,^STOXX50E,2.8
+HERMES INTL,RMS.PA,RMS,Consumer Cyclical,France,PAR,169521381376.0,^STOXX50E,2.91
+ASML HOLDING,ASML.AS,ASML,Technology,Netherlands,AMS,620599508992.0,^STOXX50E,10.65
+L'OREAL,OR.PA,OR,Consumer Defensive,France,PAR,204095242240.0,^STOXX50E,3.5
+INDUSTRIA DE DISE...O TEXTIL S.,ITX.MC,ITX,Consumer Cyclical,Spain,MCE,175469346816.0,^STOXX50E,3.01
+SIEMENS AG                    N,SIE.DE,SIE,Industrials,Germany,GER,207466201088.0,^STOXX50E,3.56
+DEUTSCHE TELEKOM AG           N,DTE.DE,DTE,Communication Services,Germany,GER,121095708672.0,^STOXX50E,2.08
+SCHNEIDER ELECTRIC SE,SU.PA,SU,Industrials,France,PAR,154697121792.0,^STOXX50E,2.65
+AIRBUS SE,AIR.PA,AIR,Industrials,Netherlands,PAR,158193483776.0,^STOXX50E,2.71
+SANOFI,SAN.PA,SAN,Healthcare,France,PAR,88868675584.0,^STOXX50E,1.52
+TOTALENERGIES,TTE.PA,TTE,Energy,France,PAR,147216039936.0,^STOXX50E,2.53
+Allianz SE                    v,ALV.DE,ALV,Financial Services,Germany,GER,158389944320.0,^STOXX50E,2.72
+ESSILORLUXOTTICA,EL.PA,EL,Healthcare,France,PAR,79486337024.0,^STOXX50E,1.36
+SAFRAN,SAF.PA,SAF,Industrials,France,PAR,147026640896.0,^STOXX50E,2.52
+AIR LIQUIDE,AI.PA,AI,Basic Materials,France,PAR,113476968448.0,^STOXX50E,1.95
+AB INBEV,ABI.BR,ABI,Consumer Defensive,Belgium,BRU,137756655616.0,^STOXX50E,2.36
+PROSUS,PRX.AS,PRX,Consumer Cyclical,Netherlands,AMS,79541526528.0,^STOXX50E,1.36
+ACCIONES IBERDROLA,IBE.MC,IBE,Utilities,Spain,MCE,141758808064.0,^STOXX50E,2.43
+AXA,CS.PA,CS,Financial Services,France,PAR,89098985472.0,^STOXX50E,1.53
+BANCO SANTANDER S.A.,SAN.MC,SAN,Financial Services,Spain,MCE,175937306624.0,^STOXX50E,3.02
+INTESA SANPAOLO,ISP.MI,ISP,Financial Services,Italy,MIL,106646626304.0,^STOXX50E,1.83
+FERRARI,RACE.MI,RACE,Consumer Cyclical,Italy,MIL,58286321664.0,^STOXX50E,1.0
+BNP PARIBAS ACT.A,BNP.PA,BNP,Financial Services,France,PAR,112319201280.0,^STOXX50E,1.93
+MUENCHENER RUECKVERS.-GES. AG N,MUV2.DE,MUV2,Financial Services,Germany,GER,63481892864.0,^STOXX50E,1.09
+UNICREDIT,UCG.MI,UCG,Financial Services,Italy,MIL,122304380928.0,^STOXX50E,2.1
+ENEL,ENEL.MI,ENEL,Utilities,Italy,MIL,99828031488.0,^STOXX50E,1.71
+BANCO BILBAO VIZCAYA ARGENTARIA,BBVA.MC,BBVA,Financial Services,Spain,MCE,124273623040.0,^STOXX50E,2.13
+VINCI,DG.PA,DG,Industrials,France,PAR,69117042688.0,^STOXX50E,1.19
+Mercedes-Benz Group AG        N,MBG.DE,MBG,Consumer Cyclical,Germany,GER,42725646336.0,^STOXX50E,0.73
+ING GROEP N.V.,INGA.AS,INGA,Financial Services,Netherlands,AMS,80219463680.0,^STOXX50E,1.38
+VOLKSWAGEN AG                 V,VOW3.DE,VOW3,Consumer Cyclical,Germany,GER,36213567488.0,^STOXX50E,0.62
+BAYERISCHE MOTOREN WERKE AG   S,BMW.DE,BMW,Consumer Cyclical,Germany,GER,36427694080.0,^STOXX50E,0.62
+ADYEN,ADYEN.AS,ADYEN,Technology,Netherlands,AMS,26727346176.0,^STOXX50E,0.46
+adidas AG                     N,ADS.DE,ADS,Consumer Cyclical,Germany,GER,32472590336.0,^STOXX50E,0.56
+SAINT GOBAIN,SGO.PA,SGO,Industrials,France,PAR,38798471168.0,^STOXX50E,0.67
+DEUTSCHE BOERSE AG            N,DB1.DE,DB1,Financial Services,Germany,GER,44379217920.0,^STOXX50E,0.76
+DANONE,BN.PA,BN,Consumer Defensive,France,PAR,47041392640.0,^STOXX50E,0.81
+INFINEON TECHNOLOGIES AG      N,IFX.DE,IFX,Technology,Germany,GER,99736600576.0,^STOXX50E,1.71
+BASF SE                       N,BAS.DE,BAS,Basic Materials,Germany,GER,41713618944.0,^STOXX50E,0.72
+ENI,ENI.MI,ENI,Energy,Italy,MIL,59342667776.0,^STOXX50E,1.02
+WOLTERS KLUWER,WKL.AS,WKL,Industrials,Netherlands,AMS,12606631936.0,^STOXX50E,0.22
+DEUTSCHE POST AG              N,DHL.DE,DHL,Industrials,Germany,GER,61782228992.0,^STOXX50E,1.06
+Nordea Bank Abp,NDA-SE.ST,NDA-SE,Financial Services,Finland,STO,630220062720.0,^STOXX50E,10.81
+STELLANTIS NV,STLAP.PA,STLAP,Consumer Cyclical,Netherlands,PAR,14875804672.0,^STOXX50E,0.26
+KONINKLIJKE AHOLD DELHAIZE N.V.,AD.AS,AD,Consumer Defensive,Netherlands,AMS,31722127360.0,^STOXX50E,0.54
+KERING,KER.PA,KER,Consumer Cyclical,France,PAR,30293110784.0,^STOXX50E,0.52
+PERNOD RICARD,RI.PA,RI,Consumer Defensive,France,PAR,15954368512.0,^STOXX50E,0.27
+Nokia Corporation,NOKIA.HE,NOKIA,Technology,Finland,HEL,62636036096.0,^STOXX50E,1.07
+Bayer AG                      N,BAYN.DE,BAYN,Healthcare,Germany,GER,51518316544.0,^STOXX50E,0.88
+ABB Ltd,ABB.ST,ABB,Industrials,Switzerland,STO,1868453511168.0,^OMXSPI,13.61
+Addtech AB ser. B,ADDT-B.ST,ADDT-B,Industrials,Sweden,STO,91786551296.0,^OMXSPI,0.67
+Alfa Laval AB,ALFA.ST,ALFA,Industrials,Sweden,STO,237993279488.0,^OMXSPI,1.73
+ASSA ABLOY AB ser. B,ASSA-B.ST,ASSA-B,Industrials,Sweden,STO,380440903680.0,^OMXSPI,2.77
+AstraZeneca PLC,AZN.ST,AZN,Healthcare,United Kingdom,STO,2816365821952.0,^OMXSPI,20.51
+Atlas Copco AB ser. A,ATCO-A.ST,ATCO-A,Industrials,Sweden,STO,942793424896.0,^OMXSPI,6.87
+Boliden AB,BOL.ST,BOL,Basic Materials,Sweden,STO,151689003008.0,^OMXSPI,1.1
+Epiroc AB ser. A,EPI-A.ST,EPI-A,Industrials,Sweden,STO,314191249408.0,^OMXSPI,2.29
+EQT AB,EQT.ST,EQT,Financial Services,Sweden,STO,330390503424.0,^OMXSPI,2.41
+"Ericsson, Telefonab. L M ser. B",ERIC-B.ST,ERIC-B,Technology,Sweden,STO,354052145152.0,^OMXSPI,2.58
+Essity AB ser. B,ESSITY-B.ST,ESSITY-B,Consumer Defensive,Sweden,STO,187390427136.0,^OMXSPI,1.36
+Evolution AB,EVO.ST,EVO,Consumer Cyclical,Sweden,STO,133852250112.0,^OMXSPI,0.97
+Svenska Handelsbanken ser. A,SHB-A.ST,SHB-A,Financial Services,Sweden,STO,287182749696.0,^OMXSPI,2.09
+"Hennes & Mauritz AB, H & M ser.",HM-B.ST,HM-B,Consumer Cyclical,Sweden,STO,264518991872.0,^OMXSPI,1.93
+Hexagon AB ser. B,HEXA-B.ST,HEXA-B,Technology,Sweden,STO,217434603520.0,^OMXSPI,1.58
+"Industrivärden, AB ser. C",INDU-C.ST,INDU-C,Financial Services,Sweden,STO,227783589888.0,^OMXSPI,1.66
+Investor AB ser. B,INVE-B.ST,INVE-B,Financial Services,Sweden,STO,1227179294720.0,^OMXSPI,8.94
+Lifco AB ser.B,LIFCO-B.ST,LIFCO-B,Industrials,Sweden,STO,146257641472.0,^OMXSPI,1.07
+NIBE Industrier AB ser. B,NIBE-B.ST,NIBE-B,Industrials,Sweden,STO,72356626432.0,^OMXSPI,0.53
+Nordea Bank Abp,NDA-SE.ST,NDA-SE,Financial Services,Finland,STO,630220062720.0,^OMXSPI,4.59
+SAAB AB ser. B,SAAB-B.ST,SAAB-B,Industrials,Sweden,STO,296921661440.0,^OMXSPI,2.16
+Sandvik AB,SAND.ST,SAND,Industrials,Sweden,STO,496360521728.0,^OMXSPI,3.62
+Svenska Cellulosa AB SCA ser. B,SCA-B.ST,SCA-B,Basic Materials,Sweden,STO,69040267264.0,^OMXSPI,0.5
+Skandinaviska Enskilda Banken s,SEB-A.ST,SEB-A,Financial Services,Sweden,STO,381328982016.0,^OMXSPI,2.78
+Skanska AB ser. B,SKA-B.ST,SKA-B,Industrials,Sweden,STO,106915569664.0,^OMXSPI,0.78
+"SKF, AB ser. B",SKF-B.ST,SKF-B,Industrials,Sweden,STO,117950496768.0,^OMXSPI,0.86
+Swedbank AB ser A,SWED-A.ST,SWED-A,Financial Services,Sweden,STO,407796056064.0,^OMXSPI,2.97
+Tele2 AB ser. B,TEL2-B.ST,TEL2-B,Communication Services,Sweden,STO,114367406080.0,^OMXSPI,0.83
+Telia Company AB,TELIA.ST,TELIA,Communication Services,Sweden,STO,178910969856.0,^OMXSPI,1.3
+"Volvo, AB ser. B",VOLV-B.ST,VOLV-B,Industrials,Sweden,STO,676529504256.0,^OMXSPI,4.93
+AB INBEV,ABI.BR,ABI,Consumer Defensive,Belgium,BRU,137756655616.0,^BFX,35.03
+ACKERMANS V.HAAREN,ACKB.BR,ACKB,Industrials,Belgium,BRU,9093638144.0,^BFX,2.31
+AEDIFICA,AED.BR,AED,Real Estate,Belgium,BRU,5851225088.0,^BFX,1.49
+AGEAS,AGS.BR,AGS,Financial Services,Belgium,BRU,14740086784.0,^BFX,3.75
+ARGENX SE,ARGX.BR,ARGX,Healthcare,Netherlands,BRU,50247720960.0,^BFX,12.78
+Non disponible,APAM.BR,APAM,Non disponible,Non disponible,Non disponible,,^BFX,
+AZELIS GROUP NV,AZE.BR,AZE,Basic Materials,Belgium,BRU,2296285696.0,^BFX,0.58
+D'IETEREN GROUP,DIE.BR,DIE,Consumer Cyclical,Belgium,BRU,9355169792.0,^BFX,2.38
+ELIA GROUP,ELI.BR,ELI,Utilities,Belgium,BRU,14778674176.0,^BFX,3.76
+GBL,GBLB.BR,GBLB,Financial Services,Belgium,BRU,9464817664.0,^BFX,2.41
+KBC,KBC.BR,KBC,Financial Services,Belgium,BRU,48058015744.0,^BFX,12.22
+LOTUS BAKERIES,LOTB.BR,LOTB,Consumer Defensive,Belgium,BRU,9314458624.0,^BFX,2.37
+MELEXIS,MELE.BR,MELE,Technology,Belgium,BRU,3130488064.0,^BFX,0.8
+MONTEA NV,MONT.BR,MONT,Real Estate,Belgium,BRU,1575230080.0,^BFX,0.4
+SOFINA,SOF.BR,SOF,Financial Services,Belgium,BRU,8315410944.0,^BFX,2.11
+SOLVAY,SOLB.BR,SOLB,Basic Materials,Belgium,BRU,2783293184.0,^BFX,0.71
+SYENSQO,SYENS.BR,SYENS,Basic Materials,Belgium,BRU,6610120192.0,^BFX,1.68
+UCB,UCB.BR,UCB,Healthcare,Belgium,BRU,49570095104.0,^BFX,12.6
+UMICORE,UMI.BR,UMI,Industrials,Belgium,BRU,5013310464.0,^BFX,1.27
+WAREHOUSES DE PAUW,WDP.BR,WDP,Real Estate,Belgium,BRU,5344883712.0,^BFX,1.36
+ACCOR,AC.PA,AC,Consumer Cyclical,France,PAR,11919753216.0,^FCHI,0.47
+AIR LIQUIDE,AI.PA,AI,Basic Materials,France,PAR,113362509824.0,^FCHI,4.49
+AIRBUS SE,AIR.PA,AIR,Industrials,Netherlands,PAR,158193483776.0,^FCHI,6.26
+Non disponible,MT.PA,MT,Non disponible,Non disponible,YHD,,^FCHI,
+AXA,CS.PA,CS,Financial Services,France,PAR,89058304000.0,^FCHI,3.53
+BNP PARIBAS ACT.A,BNP.PA,BNP,Financial Services,France,PAR,112231071744.0,^FCHI,4.44
+BOUYGUES,EN.PA,EN,Industrials,France,PAR,18238181376.0,^FCHI,0.72
+BUREAU VERITAS,BVI.PA,BVI,Industrials,France,PAR,11897054208.0,^FCHI,0.47
+CAPGEMINI,CAP.PA,CAP,Technology,France,PAR,15058341888.0,^FCHI,0.6
+CARREFOUR,CA.PA,CA,Consumer Defensive,France,PAR,11512867840.0,^FCHI,0.46
+CREDIT AGRICOLE,ACA.PA,ACA,Financial Services,France,PAR,53675470848.0,^FCHI,2.13
+DANONE,BN.PA,BN,Consumer Defensive,France,PAR,47028547584.0,^FCHI,1.86
+DASSAULT SYSTEMES,DSY.PA,DSY,Technology,France,PAR,23980386304.0,^FCHI,0.95
+EIFFAGE,FGR.PA,FGR,Industrials,France,PAR,12387200000.0,^FCHI,0.49
+ENGIE,ENGI.PA,ENGI,Utilities,France,PAR,68122447872.0,^FCHI,2.7
+ESSILORLUXOTTICA,EL.PA,EL,Healthcare,France,PAR,79716130816.0,^FCHI,3.16
+EUROFINS SCIENT.,ERF.PA,ERF,Healthcare,Luxembourg,PAR,11846165504.0,^FCHI,0.47
+EURONEXT,ENX.PA,ENX,Financial Services,Netherlands,PAR,14402471936.0,^FCHI,0.57
+HERMES INTL,RMS.PA,RMS,Consumer Cyclical,France,PAR,169626124288.0,^FCHI,6.72
+KERING,KER.PA,KER,Consumer Cyclical,France,PAR,30305372160.0,^FCHI,1.2
+LEGRAND,LR.PA,LR,Industrials,France,PAR,37366435840.0,^FCHI,1.48
+L'OREAL,OR.PA,OR,Consumer Defensive,France,PAR,204015386624.0,^FCHI,8.08
+LVMH,MC.PA,MC,Consumer Cyclical,France,PAR,242773508096.0,^FCHI,9.61
+MICHELIN,ML.PA,ML,Non disponible,Non disponible,PAR,0.0,^FCHI,0.0
+ORANGE,ORA.PA,ORA,Communication Services,France,PAR,42375282688.0,^FCHI,1.68
+PERNOD RICARD,RI.PA,RI,Consumer Defensive,France,PAR,15929187328.0,^FCHI,0.63
+PUBLICIS GROUPE SA,PUB.PA,PUB,Communication Services,France,PAR,20926459904.0,^FCHI,0.83
+RENAULT,RNO.PA,RNO,Consumer Cyclical,France,PAR,7553239552.0,^FCHI,0.3
+SAFRAN,SAF.PA,SAF,Industrials,France,PAR,146570035200.0,^FCHI,5.8
+SAINT GOBAIN,SGO.PA,SGO,Industrials,France,PAR,38778880000.0,^FCHI,1.54
+SANOFI,SAN.PA,SAN,Healthcare,France,PAR,88832770048.0,^FCHI,3.52
+SCHNEIDER ELECTRIC SE,SU.PA,SU,Industrials,France,PAR,154528415744.0,^FCHI,6.12
+SOCIETE GENERALE,GLE.PA,GLE,Financial Services,France,PAR,56424407040.0,^FCHI,2.23
+STELLANTIS NV,STLAP.PA,STLAP,Consumer Cyclical,Netherlands,PAR,14861318144.0,^FCHI,0.59
+STMICROELECTRONICS,STMPA.PA,STMPA,Technology,Netherlands,PAR,55354097664.0,^FCHI,2.19
+THALES,HO.PA,HO,Industrials,France,PAR,48534728704.0,^FCHI,1.92
+TOTALENERGIES,TTE.PA,TTE,Energy,France,PAR,147238273024.0,^FCHI,5.83
+UNIBAIL-RODAMCO-WESTFIELD,URW.PA,URW,Real Estate,France,PAR,14782233600.0,^FCHI,0.59
+VEOLIA ENVIRON.,VIE.PA,VIE,Industrials,France,PAR,26359803904.0,^FCHI,1.04
+VINCI,DG.PA,DG,Industrials,France,PAR,69089386496.0,^FCHI,2.74
+ARCELORMITTAL SA,MT.AS,MT,Basic Materials,Luxembourg,AMS,40822861824.0,^FCHI,1.62
+Elisa Corporation,ELISA.HE,ELISA,Communication Services,Finland,HEL,5700394496.0,^OMXH25,1.81
+Fortum Corporation,FORTUM.HE,FORTUM,Utilities,Finland,HEL,17900427264.0,^OMXH25,5.69
+Hiab Oyj,HIAB.HE,HIAB,Industrials,Finland,HEL,3442498560.0,^OMXH25,1.09
+Huhtamäki Oyj,HUH1V.HE,HUH1V,Consumer Cyclical,Finland,HEL,2765335808.0,^OMXH25,0.88
+Kalmar Oyj B,KALMAR.HE,KALMAR,Industrials,Finland,HEL,2399765248.0,^OMXH25,0.76
+Kemira Oyj,KEMIRA.HE,KEMIRA,Basic Materials,Finland,HEL,2380144128.0,^OMXH25,0.76
+Kesko Corporation B,KESKOB.HE,KESKOB,Consumer Defensive,Finland,HEL,7719873024.0,^OMXH25,2.46
+Non disponible,KOJAMO.HE,KOJAMO,Non disponible,Non disponible,Non disponible,,^OMXH25,
+KONE Corporation,KNEBV.HE,KNEBV,Industrials,Finland,HEL,26162958336.0,^OMXH25,8.32
+Konecranes Plc,KCR.HE,KCR,Industrials,Finland,HEL,6311792640.0,^OMXH25,2.01
+Mandatum Oyj,MANTA.HE,MANTA,Financial Services,Finland,HEL,2762632448.0,^OMXH25,0.88
+Metso Oyj,METSO.HE,METSO,Industrials,Finland,HEL,12537637888.0,^OMXH25,3.99
+Neste Corporation,NESTE.HE,NESTE,Energy,Finland,HEL,21404356608.0,^OMXH25,6.81
+Nokia Corporation,NOKIA.HE,NOKIA,Technology,Finland,HEL,62608121856.0,^OMXH25,19.91
+Nokian Tyres Plc,TYRES.HE,TYRES,Consumer Cyclical,Finland,HEL,1679320576.0,^OMXH25,0.53
+Nordea Bank Abp,NDA-FI.HE,NDA-FI,Financial Services,Finland,HEL,56930213888.0,^OMXH25,18.1
+Orion Corporation B,ORNBV.HE,ORNBV,Healthcare,Finland,HEL,10087623680.0,^OMXH25,3.21
+Outokumpu Oyj,OUT1V.HE,OUT1V,Basic Materials,Finland,HEL,2355945984.0,^OMXH25,0.75
+Qt Group Oyj,QTCOM.HE,QTCOM,Technology,Finland,HEL,598216960.0,^OMXH25,0.19
+Sampo Plc A,SAMPO.HE,SAMPO,Financial Services,Finland,HEL,24475539456.0,^OMXH25,7.78
+Stora Enso Oyj R,STERV.HE,STERV,Consumer Cyclical,Finland,HEL,7277384704.0,^OMXH25,2.31
+Tieto Corporation,TIETO.HE,TIETO,Technology,Finland,HEL,2013419264.0,^OMXH25,0.64
+UPM-Kymmene Corporation,UPM.HE,UPM,Basic Materials,Finland,HEL,12054627328.0,^OMXH25,3.83
+Valmet Corporation,VALMT.HE,VALMT,Industrials,Finland,HEL,3905836800.0,^OMXH25,1.24
+Wärtsilä Corporation,WRT1V.HE,WRT1V,Industrials,Finland,HEL,18977492992.0,^OMXH25,6.04
+A.P. Møller - Mærsk A A/S,MAERSK-A.CO,MAERSK-A,Industrials,Denmark,CPH,229177196544.0,^OMXC25,5.8
+A.P. Møller - Mærsk B A/S,MAERSK-B.CO,MAERSK-B,Industrials,Denmark,CPH,235981570048.0,^OMXC25,5.97
+Ambu A/S,AMBU-B.CO,AMBU-B,Healthcare,Denmark,CPH,17225211904.0,^OMXC25,0.44
+Bavarian Nordic A/S,BAVA.CO,BAVA,Healthcare,Denmark,CPH,14287281152.0,^OMXC25,0.36
+Carlsberg B A/S,CARL-B.CO,CARL-B,Consumer Defensive,Denmark,CPH,119536427008.0,^OMXC25,3.03
+Coloplast B A/S,COLO-B.CO,COLO-B,Healthcare,Denmark,CPH,87194411008.0,^OMXC25,2.21
+Danske Bank A/S,DANSKE.CO,DANSKE,Financial Services,Denmark,CPH,287802261504.0,^OMXC25,7.29
+Demant A/S,DEMANT.CO,DEMANT,Healthcare,Denmark,CPH,57406603264.0,^OMXC25,1.45
+DSV A/S,DSV.CO,DSV,Industrials,Denmark,CPH,395302993920.0,^OMXC25,10.01
+Genmab A/S,GMAB.CO,GMAB,Healthcare,Denmark,CPH,111245180928.0,^OMXC25,2.82
+GN Store Nord A/S,GN.CO,GN,Healthcare,Denmark,CPH,13110953984.0,^OMXC25,0.33
+ISS A/S,ISS.CO,ISS,Industrials,Denmark,CPH,43600179200.0,^OMXC25,1.1
+Jyske Bank A/S,JYSK.CO,JYSK,Financial Services,Denmark,CPH,54687154176.0,^OMXC25,1.38
+NKT A/S,NKT.CO,NKT,Industrials,Denmark,CPH,51953840128.0,^OMXC25,1.32
+Non disponible,NDA.CO,NDA,Non disponible,Non disponible,YHD,,^OMXC25,
+Novo Nordisk B A/S,NOVO-B.CO,NOVO-B,Healthcare,Denmark,CPH,1420462260224.0,^OMXC25,35.96
+Novonesis (Novozymes A/S) B,NSIS-B.CO,NSIS-B,Basic Materials,Denmark,CPH,195909255168.0,^OMXC25,4.96
+Pandora A/S,PNDORA.CO,PNDORA,Consumer Cyclical,Denmark,CPH,57551609856.0,^OMXC25,1.46
+Rockwool A/S ser. B,ROCK-B.CO,ROCK-B,Industrials,Denmark,CPH,43579183104.0,^OMXC25,1.1
+Royal UNIBREW A/S,RBREW.CO,RBREW,Consumer Defensive,Denmark,CPH,21915121664.0,^OMXC25,0.55
+Non disponible,SYDB.CO,SYDB,Non disponible,Non disponible,Non disponible,,^OMXC25,
+Tryg A/S,TRYG.CO,TRYG,Financial Services,Denmark,CPH,88788779008.0,^OMXC25,2.25
+Vestas Wind Systems A/S,VWS.CO,VWS,Industrials,Denmark,CPH,182856269824.0,^OMXC25,4.63
+Zealand Pharma A/S,ZEAL.CO,ZEAL,Healthcare,Denmark,CPH,20570005504.0,^OMXC25,0.52
+ORSTED A/S,ORSTED.CO,ORSTED,Utilities,Denmark,CPH,199612481536.0,^OMXC25,5.05
+"ACS,ACTIVIDADES DE CONSTRUCCION",ACS.MC,ACS,Industrials,Spain,MCE,32737708032.0,^IBEX,2.76
+"ACERINOX, S.A.",ACX.MC,ACX,Basic Materials,Spain,MCE,3914455296.0,^IBEX,0.33
+"AMADEUS IT GROUP, S.A.",AMS.MC,AMS,Technology,Spain,MCE,21743005696.0,^IBEX,1.83
+"ACCIONA, S.A.",ANA.MC,ANA,Industrials,Spain,MCE,14618258432.0,^IBEX,1.23
+CORPORACI...N ACCIONA ENERG...A,ANE.MC,ANE,Utilities,Spain,MCE,7329705984.0,^IBEX,0.62
+BANCO BILBAO VIZCAYA ARGENTARIA,BBVA.MC,BBVA,Financial Services,Spain,MCE,124273623040.0,^IBEX,10.47
+"BANKINTER, S.A.",BKT.MC,BKT,Financial Services,Spain,MCE,13696131072.0,^IBEX,1.15
+"CAIXABANK, S.A.",CABK.MC,CABK,Financial Services,Spain,MCE,88558329856.0,^IBEX,7.46
+"CELLNEX TELECOM, S.A.",CLNX.MC,CLNX,Real Estate,Spain,MCE,17245300736.0,^IBEX,1.45
+"COLONIAL SFL, SOCIMI. S.A.",COL.MC,COL,Real Estate,Spain,MCE,3461860096.0,^IBEX,0.29
+"AENA, S.M.E., S.A.",AENA.MC,AENA,Industrials,Spain,MCE,40530001920.0,^IBEX,3.42
+"ENDESA,S.A.",ELE.MC,ELE,Utilities,Spain,MCE,39767937024.0,^IBEX,3.35
+"ENAGAS,S.A.",ENG.MC,ENG,Utilities,Spain,MCE,4360364032.0,^IBEX,0.37
+"FLUIDRA, S.A.",FDR.MC,FDR,Consumer Cyclical,Spain,MCE,3790045184.0,^IBEX,0.32
+FERROVIAL N.V.,FER.MC,FER,Industrials,Netherlands,MCE,42468823040.0,^IBEX,3.58
+GRIFOLS S.A.,GRF.MC,GRF,Healthcare,Spain,MCE,6159243776.0,^IBEX,0.52
+INTL CONSOLIDATED AIRLINES GROU,IAG.MC,IAG,Industrials,United Kingdom,MCE,24555116544.0,^IBEX,2.07
+ACCIONES IBERDROLA,IBE.MC,IBE,Utilities,Spain,MCE,141626982400.0,^IBEX,11.94
+"INDRA SISTEMAS S.A., SERIE A",IDR.MC,IDR,Technology,Spain,MCE,8950420480.0,^IBEX,0.75
+INDUSTRIA DE DISE...O TEXTIL S.,ITX.MC,ITX,Consumer Cyclical,Spain,MCE,175531622400.0,^IBEX,14.79
+COMPA...IA DE DISTRIBUCION INTE,LOG.MC,LOG,Industrials,Spain,MCE,4490312704.0,^IBEX,0.38
+"MAPFRE, S.A.",MAP.MC,MAP,Financial Services,Spain,MCE,13505501184.0,^IBEX,1.14
+"MERLIN PROPERTIES SOCIMI, S.A.",MRL.MC,MRL,Real Estate,Spain,MCE,9465867264.0,^IBEX,0.8
+ARCELORMITTAL SA,MTS.MC,MTS,Basic Materials,Luxembourg,MCE,40868253696.0,^IBEX,3.44
+"NATURGY ENERGY GROUP, S.A.",NTGY.MC,NTGY,Utilities,Spain,MCE,25383184384.0,^IBEX,2.14
+"PUIG BRANDS, S.A. CLASE B",PUIG.MC,PUIG,Consumer Defensive,Spain,MCE,16033751040.0,^IBEX,1.35
+"REDEIA CORPORACION, S.A.",RED.MC,RED,Utilities,Spain,MCE,8103872512.0,^IBEX,0.68
+"REPSOL,  S.A.",REP.MC,REP,Energy,Spain,MCE,24562022400.0,^IBEX,2.07
+LABORATORIOS FARMACEUTICOS ROVI,ROVI.MC,ROVI,Healthcare,Spain,MCE,2941095936.0,^IBEX,0.25
+BANCO DE SABADELL,SAB.MC,SAB,Financial Services,Spain,MCE,15347463168.0,^IBEX,1.29
+BANCO SANTANDER S.A.,SAN.MC,SAN,Financial Services,Spain,MCE,175965978624.0,^IBEX,14.83
+"SACYR, S.A.",SCYR.MC,SCYR,Industrials,Spain,MCE,3739494400.0,^IBEX,0.32
+SOLARIA ENERGIA Y MEDIO AMBIENT,SLR.MC,SLR,Utilities,Spain,MCE,2616287744.0,^IBEX,0.22
+"TELEFONICA,S.A.",TEF.MC,TEF,Communication Services,Spain,MCE,19811643392.0,^IBEX,1.67
+"UNICAJA BANCO, S.A.",UNI.MC,UNI,Financial Services,Spain,MCE,8305560064.0,^IBEX,0.7
+A2A,A2A.MI,A2A,Utilities,Italy,MIL,7110914048.0,FTSEMIB.MI,0.68
+AMPLIFON,AMP.MI,AMP,Healthcare,Italy,MIL,2645589760.0,FTSEMIB.MI,0.25
+AVIO,AVIO.MI,AVIO,Industrials,Italy,MIL,1486791168.0,FTSEMIB.MI,0.14
+AZIMUT,AZM.MI,AZM,Financial Services,Italy,MIL,5156532736.0,FTSEMIB.MI,0.5
+BANCA MEDIOLANUM,BMED.MI,BMED,Financial Services,Italy,MIL,16516299776.0,FTSEMIB.MI,1.59
+BANCA MONTE PASCHI SIENA,BMPS.MI,BMPS,Financial Services,Italy,MIL,33513752576.0,FTSEMIB.MI,3.22
+BANCO BPM,BAMI.MI,BAMI,Financial Services,Italy,MIL,23050074112.0,FTSEMIB.MI,2.22
+BPER BANCA,BPE.MI,BPE,Financial Services,Italy,MIL,28961064960.0,FTSEMIB.MI,2.78
+BRUNELLO CUCINELLI,BC.MI,BC,Consumer Cyclical,Italy,MIL,5624960000.0,FTSEMIB.MI,0.54
+BUZZI,BZU.MI,BZU,Basic Materials,Italy,MIL,8022608896.0,FTSEMIB.MI,0.77
+CAMPARI,CPR.MI,CPR,Consumer Defensive,Italy,MIL,6502213632.0,FTSEMIB.MI,0.63
+DIASORIN,DIA.MI,DIA,Healthcare,Italy,MIL,3448117760.0,FTSEMIB.MI,0.33
+ENEL,ENEL.MI,ENEL,Utilities,Italy,MIL,99768492032.0,FTSEMIB.MI,9.59
+ENI,ENI.MI,ENI,Energy,Italy,MIL,59357270016.0,FTSEMIB.MI,5.71
+FERRARI,RACE.MI,RACE,Consumer Cyclical,Italy,MIL,58277527552.0,FTSEMIB.MI,5.6
+FINCANTIERI,FCT.MI,FCT,Industrials,Italy,MIL,3824598784.0,FTSEMIB.MI,0.37
+FINECOBANK,FBK.MI,FBK,Financial Services,Italy,MIL,13668040704.0,FTSEMIB.MI,1.31
+GENERALI,G.MI,G,Financial Services,Italy,MIL,64042819584.0,FTSEMIB.MI,6.16
+HERA,HER.MI,HER,Utilities,Italy,MIL,5455198720.0,FTSEMIB.MI,0.52
+INTESA SANPAOLO,ISP.MI,ISP,Financial Services,Italy,MIL,106594336768.0,FTSEMIB.MI,10.25
+INWIT,INW.MI,INW,Real Estate,Italy,MIL,5857337344.0,FTSEMIB.MI,0.56
+ITALGAS,IG.MI,IG,Utilities,Italy,MIL,10351364096.0,FTSEMIB.MI,1.0
+IVECO GROUP,IVG.MI,IVG,Industrials,Italy,MIL,3715537920.0,FTSEMIB.MI,0.36
+LEONARDO,LDO.MI,LDO,Industrials,Italy,MIL,29397618688.0,FTSEMIB.MI,2.83
+LOTTOMATICA GROUP,LTMC.MI,LTMC,Consumer Cyclical,Italy,MIL,5872507392.0,FTSEMIB.MI,0.56
+MEDIOBANCA,MB.MI,MB,Financial Services,Italy,MIL,21324767232.0,FTSEMIB.MI,2.05
+MONCLER,MONC.MI,MONC,Consumer Cyclical,Italy,MIL,13865843712.0,FTSEMIB.MI,1.33
+NEXI,NEXI.MI,NEXI,Technology,Italy,MIL,4351210496.0,FTSEMIB.MI,0.42
+POSTE ITALIANE,PST.MI,PST,Industrials,Italy,MIL,38012723200.0,FTSEMIB.MI,3.65
+PRYSMIAN,PRY.MI,PRY,Industrials,Italy,MIL,41411067904.0,FTSEMIB.MI,3.98
+RECORDATI ORD,REC.MI,REC,Healthcare,Italy,MIL,10442734592.0,FTSEMIB.MI,1.0
+SAIPEM,SPM.MI,SPM,Energy,Italy,MIL,8399483904.0,FTSEMIB.MI,0.81
+SNAM,SRG.MI,SRG,Utilities,Italy,MIL,20966985728.0,FTSEMIB.MI,2.02
+STELLANTIS,STLAM.MI,STLAM,Consumer Cyclical,Netherlands,MIL,14872907776.0,FTSEMIB.MI,1.43
+STMICROELECTRONICS,STMMI.MI,STMMI,Technology,Netherlands,MIL,55594070016.0,FTSEMIB.MI,5.34
+TELECOM ITALIA,TIT.MI,TIT,Communication Services,Italy,MIL,17373526016.0,FTSEMIB.MI,1.67
+TENARIS,TEN.MI,TEN,Energy,Luxembourg,MIL,24100102144.0,FTSEMIB.MI,2.32
+TERNA,TRN.MI,TRN,Utilities,Italy,MIL,20388659200.0,FTSEMIB.MI,1.96
+UNICREDIT,UCG.MI,UCG,Financial Services,Italy,MIL,122379296768.0,FTSEMIB.MI,11.76
+UNIPOL,UNI.MI,UNI,Financial Services,Italy,MIL,18503849984.0,FTSEMIB.MI,1.78
+adidas AG                     N,ADS.DE,ADS,Consumer Cyclical,Germany,GER,32419385344.0,^GDAXI,1.56
+AIRBUS SE,AIR.PA,AIR,Industrials,Netherlands,PAR,158232854528.0,^GDAXI,7.6
+Allianz SE                    v,ALV.DE,ALV,Financial Services,Germany,GER,158352015360.0,^GDAXI,7.6
+BASF SE                       N,BAS.DE,BAS,Basic Materials,Germany,GER,41664987136.0,^GDAXI,2.0
+Bayer AG                      N,BAYN.DE,BAYN,Healthcare,Germany,GER,51439726592.0,^GDAXI,2.47
+BEIERSDORF AG                 I,BEI.DE,BEI,Consumer Defensive,Germany,GER,16773883904.0,^GDAXI,0.81
+BAYERISCHE MOTOREN WERKE AG   S,BMW.DE,BMW,Consumer Cyclical,Germany,GER,36415553536.0,^GDAXI,1.75
+Brenntag SE                   N,BNR.DE,BNR,Basic Materials,Germany,GER,7840125952.0,^GDAXI,0.38
+Commerzbank AG                I,CBK.DE,CBK,Financial Services,Germany,GER,41130594304.0,^GDAXI,1.97
+CONTINENTAL AG                I,CON.DE,CON,Consumer Cyclical,Germany,GER,15000449024.0,^GDAXI,0.72
+Daimler Truck Holding AG      N,DTG.DE,DTG,Industrials,Germany,GER,32835915776.0,^GDAXI,1.58
+DEUTSCHE BANK AG              N,DBK.DE,DBK,Financial Services,Germany,GER,60503801856.0,^GDAXI,2.9
+DEUTSCHE BOERSE AG            N,DB1.DE,DB1,Financial Services,Germany,GER,44324585472.0,^GDAXI,2.13
+DEUTSCHE POST AG              N,DHL.DE,DHL,Industrials,Germany,GER,61804613632.0,^GDAXI,2.97
+DEUTSCHE TELEKOM AG           N,DTE.DE,DTE,Communication Services,Germany,GER,120998944768.0,^GDAXI,5.81
+E.ON SE                       N,EOAN.DE,EOAN,Utilities,Germany,GER,47087665152.0,^GDAXI,2.26
+Fresenius SE & Co. KGaA       I,FRE.DE,FRE,Healthcare,Germany,GER,23103991808.0,^GDAXI,1.11
+Fresenius Medical Care AG     I,FME.DE,FME,Healthcare,Germany,GER,10825840640.0,^GDAXI,0.52
+GEA Group AG                  I,G1A.DE,G1A,Industrials,Germany,GER,10012302336.0,^GDAXI,0.48
+HANNOVER RUECK SE NA O.N.,HNR1.DE,HNR1,Financial Services,Germany,GER,29498060800.0,^GDAXI,1.42
+Heidelberg Materials AG       I,HEI.DE,HEI,Basic Materials,Germany,GER,29602877440.0,^GDAXI,1.42
+Henkel AG & Co. KGaA          I,HEN3.DE,HEN3,Consumer Defensive,Germany,GER,30299416576.0,^GDAXI,1.45
+INFINEON TECHNOLOGIES AG      N,IFX.DE,IFX,Technology,Germany,GER,99515686912.0,^GDAXI,4.78
+Mercedes-Benz Group AG        N,MBG.DE,MBG,Consumer Cyclical,Germany,GER,42644271104.0,^GDAXI,2.05
+MERCK KGAA                    I,MRK.DE,MRK,Healthcare,Germany,GER,63586267136.0,^GDAXI,3.05
+MTU Aero Engines AG           N,MTX.DE,MTX,Industrials,Germany,GER,19960672256.0,^GDAXI,0.96
+MUENCHENER RUECKVERS.-GES. AG N,MUV2.DE,MUV2,Financial Services,Germany,GER,63430709248.0,^GDAXI,3.05
+Porsche Automobil Holding SE  I,PAH3.DE,PAH3,Consumer Cyclical,Germany,GER,8464749568.0,^GDAXI,0.41
+Qiagen N.V.                   A,QIA.DE,QIA,Healthcare,Netherlands,GER,7125937152.0,^GDAXI,0.34
+RHEINMETALL AG                I,RHM.DE,RHM,Industrials,Germany,GER,50665635840.0,^GDAXI,2.43
+RWE AG                        I,RWE.DE,RWE,Utilities,Germany,GER,39873998848.0,^GDAXI,1.91
+SAP SE                        I,SAP.DE,SAP,Technology,Germany,GER,163504963584.0,^GDAXI,7.85
+Scout24 SE                    N,G24.DE,G24,Communication Services,Germany,GER,5271839232.0,^GDAXI,0.25
+SIEMENS AG                    N,SIE.DE,SIE,Industrials,Germany,GER,207885697024.0,^GDAXI,9.98
+Siemens Energy AG             N,ENR.DE,ENR,Industrials,Germany,GER,137956589568.0,^GDAXI,6.62
+Siemens Healthineers AG       N,SHL.DE,SHL,Healthcare,Germany,GER,38287794176.0,^GDAXI,1.84
+Symrise AG                    I,SY1.DE,SY1,Basic Materials,Germany,GER,12685711360.0,^GDAXI,0.61
+VOLKSWAGEN AG                 V,VOW3.DE,VOW3,Consumer Cyclical,Germany,GER,36223598592.0,^GDAXI,1.74
+Vonovia SE                    N,VNA.DE,VNA,Real Estate,Germany,GER,18975029248.0,^GDAXI,0.91
+Zalando SE                    I,ZAL.DE,ZAL,Consumer Cyclical,Germany,GER,6696531456.0,^GDAXI,0.32
+3M Company,MMM,MMM,Industrials,United States,NYQ,83429900288.0,^GSPC,0.12
+A.O. Smith Corporation,AOS,AOS,Industrials,United States,NYQ,8564670464.0,^GSPC,0.01
+Abbott Laboratories,ABT,ABT,Healthcare,United States,NYQ,160560332800.0,^GSPC,0.22
+AbbVie Inc.,ABBV,ABBV,Healthcare,United States,NYQ,443571011584.0,^GSPC,0.61
+Accenture plc,ACN,ACN,Technology,Ireland,NYQ,80243965952.0,^GSPC,0.11
+Adobe Inc.,ADBE,ADBE,Technology,United States,NMS,83864551424.0,^GSPC,0.12
+"Advanced Micro Devices, Inc.",AMD,AMD,Technology,United States,NMS,881959239680.0,^GSPC,1.22
+The AES Corporation,AES,AES,Utilities,United States,NYQ,10440629248.0,^GSPC,0.01
+AFLAC Incorporated,AFL,AFL,Financial Services,United States,NYQ,60309618688.0,^GSPC,0.08
+"Agilent Technologies, Inc.",A,A,Healthcare,United States,NYQ,37673594880.0,^GSPC,0.05
+"Air Products and Chemicals, Inc",APD,APD,Basic Materials,United States,NYQ,68229361664.0,^GSPC,0.09
+"Airbnb, Inc.",ABNB,ABNB,Consumer Cyclical,United States,NMS,87429201920.0,^GSPC,0.12
+"Akamai Technologies, Inc.",AKAM,AKAM,Technology,United States,NMS,16400932864.0,^GSPC,0.02
+Albemarle Corporation,ALB,ALB,Basic Materials,United States,NYQ,16048546816.0,^GSPC,0.02
+Alexandria Real Estate Equities,ARE,ARE,Real Estate,United States,NYQ,9238024192.0,^GSPC,0.01
+"Align Technology, Inc.",ALGN,ALGN,Healthcare,United States,NMS,12997974016.0,^GSPC,0.02
+Allegion plc,ALLE,ALLE,Industrials,Ireland,NYQ,12025005056.0,^GSPC,0.02
+Alliant Energy Corporation,LNT,LNT,Utilities,United States,NMS,19574816768.0,^GSPC,0.03
+Allstate Corporation (The),ALL,ALL,Financial Services,United States,NYQ,62584176640.0,^GSPC,0.09
+Alphabet Inc.,GOOGL,GOOGL,Communication Services,United States,NMS,4407691313152.0,^GSPC,6.1
+Alphabet Inc.,GOOG,GOOG,Communication Services,United States,NMS,4367179055104.0,^GSPC,6.04
+"Altria Group, Inc.",MO,MO,Consumer Defensive,United States,NYQ,119464017920.0,^GSPC,0.17
+"Amazon.com, Inc.",AMZN,AMZN,Consumer Cyclical,United States,NMS,2599993475072.0,^GSPC,3.6
+Amcor plc,AMCR,AMCR,Consumer Cyclical,Switzerland,NYQ,20176764928.0,^GSPC,0.03
+Ameren Corporation,AEE,AEE,Utilities,United States,NYQ,31048765440.0,^GSPC,0.04
+American Electric Power Company,AEP,AEP,Utilities,United States,NMS,73481388032.0,^GSPC,0.1
+American Express Company,AXP,AXP,Financial Services,United States,NYQ,237449609216.0,^GSPC,0.33
+"American International Group, I",AIG,AIG,Financial Services,United States,NYQ,40608493568.0,^GSPC,0.06
+American Tower Corporation (REI,AMT,AMT,Real Estate,United States,NYQ,77375520768.0,^GSPC,0.11
+"American Water Works Company, I",AWK,AWK,Utilities,United States,NYQ,25736019968.0,^GSPC,0.04
+"Ameriprise Financial, Inc.",AMP,AMP,Financial Services,United States,NYQ,43121836032.0,^GSPC,0.06
+"AMETEK, Inc.",AME,AME,Industrials,United States,NYQ,54350909440.0,^GSPC,0.08
+Amgen Inc.,AMGN,AMGN,Healthcare,United States,NMS,195012788224.0,^GSPC,0.27
+Amphenol Corporation,APH,APH,Technology,United States,NYQ,211870990336.0,^GSPC,0.29
+"Analog Devices, Inc.",ADI,ADI,Technology,United States,NMS,189467115520.0,^GSPC,0.26
+Aon plc,AON,AON,Financial Services,Ireland,NYQ,73376497664.0,^GSPC,0.1
+APA Corporation,APA,APA,Energy,United States,NMS,11265096704.0,^GSPC,0.02
+"Apollo Global Management, Inc. ",APO,APO,Financial Services,United States,NYQ,68282732544.0,^GSPC,0.09
+Apple Inc.,AAPL,AAPL,Technology,United States,NMS,4323663937536.0,^GSPC,5.98
+"Applied Materials, Inc.",AMAT,AMAT,Technology,United States,NMS,516796121088.0,^GSPC,0.71
+Applovin Corporation,APP,APP,Communication Services,United States,NMS,189674815488.0,^GSPC,0.26
+Aptiv PLC,APTV,APTV,Consumer Cyclical,Switzerland,NYQ,12756485120.0,^GSPC,0.02
+Arch Capital Group Ltd.,ACGL,ACGL,Financial Services,Bermuda,NMS,34432348160.0,^GSPC,0.05
+Archer-Daniels-Midland Company,ADM,ADM,Consumer Defensive,United States,NYQ,36922687488.0,^GSPC,0.05
+Ares Management Corporation,ARES,ARES,Financial Services,United States,NYQ,37480472576.0,^GSPC,0.05
+"Arista Networks, Inc.",ANET,ANET,Technology,United States,NYQ,209802805248.0,^GSPC,0.29
+Arthur J. Gallagher & Co.,AJG,AJG,Financial Services,United States,NYQ,61581287424.0,^GSPC,0.09
+"Assurant, Inc.",AIZ,AIZ,Financial Services,United States,NYQ,13582989312.0,^GSPC,0.02
+AT&T Inc.,T,T,Communication Services,United States,NYQ,142301970432.0,^GSPC,0.2
+Atmos Energy Corporation,ATO,ATO,Utilities,United States,NYQ,28882137088.0,^GSPC,0.04
+"Autodesk, Inc.",ADSK,ADSK,Technology,United States,NMS,42178371584.0,^GSPC,0.06
+"Automatic Data Processing, Inc.",ADP,ADP,Technology,United States,NMS,94229356544.0,^GSPC,0.13
+"AutoZone, Inc.",AZO,AZO,Consumer Cyclical,United States,NYQ,52537438208.0,^GSPC,0.07
+"AvalonBay Communities, Inc.",AVB,AVB,Real Estate,United States,NYQ,27016695808.0,^GSPC,0.04
+Avery Dennison Corporation,AVY,AVY,Consumer Cyclical,United States,NYQ,12477111296.0,^GSPC,0.02
+"Axon Enterprise, Inc.",AXON,AXON,Industrials,United States,NMS,47874412544.0,^GSPC,0.07
+Baker Hughes Company,BKR,BKR,Energy,United States,NMS,53393137664.0,^GSPC,0.07
+Ball Corporation,BALL,BALL,Consumer Cyclical,United States,NYQ,16440722432.0,^GSPC,0.02
+Bank of America Corporation,BAC,BAC,Financial Services,United States,NYQ,414157045760.0,^GSPC,0.57
+Baxter International Inc.,BAX,BAX,Healthcare,United States,NYQ,11202212864.0,^GSPC,0.02
+"Becton, Dickinson and Company",BDX,BDX,Healthcare,United States,NYQ,42130128896.0,^GSPC,0.06
+Non disponible,BRK.B,BRK,Non disponible,Non disponible,Non disponible,,^GSPC,
+"Best Buy Co., Inc.",BBY,BBY,Consumer Cyclical,United States,NYQ,16277544960.0,^GSPC,0.02
+Bio-Techne Corp,TECH,TECH,Healthcare,United States,NMS,11062556672.0,^GSPC,0.02
+Biogen Inc.,BIIB,BIIB,Healthcare,United States,NMS,30965409792.0,^GSPC,0.04
+"BlackRock, Inc.",BLK,BLK,Financial Services,United States,NYQ,159412060160.0,^GSPC,0.22
+Blackstone Inc.,BX,BX,Financial Services,United States,NYQ,146121424896.0,^GSPC,0.2
+"Block, Inc.",XYZ,XYZ,Technology,United States,NYQ,45906309120.0,^GSPC,0.06
+The Bank of New York Mellon Cor,BNY,BNY,Financial Services,United States,NYQ,100225073152.0,^GSPC,0.14
+Boeing Company (The),BA,BA,Industrials,United States,NYQ,172307120128.0,^GSPC,0.24
+Booking Holdings Inc. Common St,BKNG,BKNG,Consumer Cyclical,United States,NMS,141523795968.0,^GSPC,0.2
+Boston Scientific Corporation,BSX,BSX,Healthcare,United States,NYQ,64002457600.0,^GSPC,0.09
+Bristol-Myers Squibb Company,BMY,BMY,Healthcare,United States,NYQ,115254501376.0,^GSPC,0.16
+Broadcom Inc.,AVGO,AVGO,Technology,United States,NMS,1757164732416.0,^GSPC,2.43
+"Broadridge Financial Solutions,",BR,BR,Technology,United States,NYQ,16299722752.0,^GSPC,0.02
+"Brown & Brown, Inc.",BRO,BRO,Financial Services,United States,NYQ,22831525888.0,^GSPC,0.03
+Non disponible,BF.B,BF,Non disponible,Non disponible,YHD,,^GSPC,
+"Builders FirstSource, Inc.",BLDR,BLDR,Industrials,United States,NYQ,9117849600.0,^GSPC,0.01
+Bunge Limited,BG,BG,Consumer Defensive,United States,NYQ,20350560256.0,^GSPC,0.03
+"BXP, Inc.",BXP,BXP,Real Estate,United States,NYQ,12082382848.0,^GSPC,0.02
+"C.H. Robinson Worldwide, Inc.",CHRW,CHRW,Industrials,United States,NMS,22545575936.0,^GSPC,0.03
+"Cadence Design Systems, Inc.",CDNS,CDNS,Technology,United States,NMS,104183980032.0,^GSPC,0.14
+Camden Property Trust,CPT,CPT,Real Estate,United States,NYQ,11460817920.0,^GSPC,0.02
+Capital One Financial Corporati,COF,COF,Financial Services,United States,NYQ,126173110272.0,^GSPC,0.17
+"Cardinal Health, Inc.",CAH,CAH,Healthcare,United States,NYQ,55675416576.0,^GSPC,0.08
+Carnival Corporation Ltd.,CCL,CCL,Consumer Cyclical,United States,NYQ,39062392832.0,^GSPC,0.05
+Carrier Global Corporation,CARR,CARR,Industrials,United States,NYQ,59859931136.0,^GSPC,0.08
+Carvana Co.,CVNA,CVNA,Consumer Cyclical,United States,NYQ,74442244096.0,^GSPC,0.1
+"Caseys General Stores, Inc.",CASY,CASY,Consumer Cyclical,United States,NMS,29022214144.0,^GSPC,0.04
+"Caterpillar, Inc.",CAT,CAT,Industrials,United States,NYQ,456635482112.0,^GSPC,0.63
+"Cboe Global Markets, Inc.",CBOE,CBOE,Financial Services,United States,BTS,25924835328.0,^GSPC,0.04
+CBRE Group Inc,CBRE,CBRE,Real Estate,United States,NYQ,40496533504.0,^GSPC,0.06
+CDW Corporation,CDW,CDW,Technology,United States,NMS,17682356224.0,^GSPC,0.02
+"Cencora, Inc.",COR,COR,Healthcare,United States,NYQ,56115302400.0,^GSPC,0.08
+Centene Corporation,CNC,CNC,Healthcare,United States,NYQ,33751023616.0,^GSPC,0.05
+"CenterPoint Energy, Inc (Holdin",CNP,CNP,Utilities,United States,NYQ,28606830592.0,^GSPC,0.04
+"CF Industries Holdings, Inc.",CF,CF,Basic Materials,United States,NYQ,16616543232.0,^GSPC,0.02
+Charles River Laboratories Inte,CRL,CRL,Healthcare,United States,NYQ,11034744832.0,^GSPC,0.02
+Charles Schwab Corporation (The,SCHW,SCHW,Financial Services,United States,NYQ,166574391296.0,^GSPC,0.23
+"Charter Communications, Inc.",CHTR,CHTR,Communication Services,United States,NMS,21909903360.0,^GSPC,0.03
+Chevron Corporation,CVX,CVX,Energy,United States,NYQ,329987817472.0,^GSPC,0.46
+"Chipotle Mexican Grill, Inc.",CMG,CMG,Consumer Cyclical,United States,NYQ,44895686656.0,^GSPC,0.06
+Chubb Limited,CB,CB,Financial Services,Switzerland,NYQ,136422039552.0,^GSPC,0.19
+"Church & Dwight Company, Inc.",CHD,CHD,Consumer Defensive,United States,NYQ,23033286656.0,^GSPC,0.03
+Ciena Corporation,CIEN,CIEN,Technology,United States,NYQ,65459736576.0,^GSPC,0.09
+The Cigna Group,CI,CI,Healthcare,United States,NYQ,73293996032.0,^GSPC,0.1
+Cincinnati Financial Corporatio,CINF,CINF,Financial Services,United States,NMS,28958904320.0,^GSPC,0.04
+Cintas Corporation,CTAS,CTAS,Industrials,United States,NMS,69715853312.0,^GSPC,0.1
+"Cisco Systems, Inc.",CSCO,CSCO,Technology,United States,NMS,461187284992.0,^GSPC,0.64
+"Citigroup, Inc.",C,C,Financial Services,United States,NYQ,239002501120.0,^GSPC,0.33
+"Citizens Financial Group, Inc.",CFG,CFG,Financial Services,United States,NYQ,30371381248.0,^GSPC,0.04
+Clorox Company (The),CLX,CLX,Consumer Defensive,United States,NYQ,11659236352.0,^GSPC,0.02
+CME Group Inc.,CME,CME,Financial Services,United States,NMS,83465551872.0,^GSPC,0.12
+CMS Energy Corporation,CMS,CMS,Utilities,United States,NYQ,23453175808.0,^GSPC,0.03
+Coca-Cola Company (The),KO,KO,Consumer Defensive,United States,NYQ,349748789248.0,^GSPC,0.48
+Cognizant Technology Solutions ,CTSH,CTSH,Technology,United States,NMS,19426109440.0,^GSPC,0.03
+Coherent Corp.,COHR,COHR,Technology,United States,NYQ,72122433536.0,^GSPC,0.1
+"Coinbase Global, Inc.",COIN,COIN,Financial Services,United States,NMS,41953492992.0,^GSPC,0.06
+Colgate-Palmolive Company,CL,CL,Consumer Defensive,United States,NYQ,74225565696.0,^GSPC,0.1
+Comcast Corporation,CMCSA,CMCSA,Communication Services,United States,NMS,84768980992.0,^GSPC,0.12
+"Comfort Systems USA, Inc.",FIX,FIX,Industrials,United States,NYQ,65623379968.0,^GSPC,0.09
+ConocoPhillips,COP,COP,Energy,United States,NYQ,125752311808.0,^GSPC,0.17
+"Consolidated Edison, Inc.",ED,ED,Utilities,United States,NYQ,40888369152.0,^GSPC,0.06
+"Constellation Brands, Inc.",STZ,STZ,Consumer Defensive,United States,NYQ,23574114304.0,^GSPC,0.03
+Constellation Energy Corporatio,CEG,CEG,Utilities,United States,NMS,84454629376.0,^GSPC,0.12
+"The Cooper Companies, Inc.",COO,COO,Healthcare,United States,NMS,14032452608.0,^GSPC,0.02
+"Copart, Inc.",CPRT,CPRT,Industrials,United States,NMS,27733649408.0,^GSPC,0.04
+Corning Incorporated,GLW,GLW,Technology,United States,NYQ,189882531840.0,^GSPC,0.26
+"Corpay, Inc.",CPAY,CPAY,Technology,United States,NYQ,22284492800.0,^GSPC,0.03
+"Corteva, Inc.",CTVA,CTVA,Basic Materials,United States,NYQ,55873220608.0,^GSPC,0.08
+"CoStar Group, Inc.",CSGP,CSGP,Real Estate,United States,NMS,11989323776.0,^GSPC,0.02
+Costco Wholesale Corporation,COST,COST,Consumer Defensive,United States,NMS,410071564288.0,^GSPC,0.57
+CRH PLC,CRH,CRH,Basic Materials,Ireland,NYQ,70287982592.0,^GSPC,0.1
+"CrowdStrike Holdings, Inc.",CRWD,CRWD,Technology,United States,NMS,786849660928.0,^GSPC,1.09
+Crown Castle Inc.,CCI,CCI,Real Estate,United States,NYQ,33401667584.0,^GSPC,0.05
+CSX Corporation,CSX,CSX,Industrials,United States,NMS,89803857920.0,^GSPC,0.12
+Cummins Inc.,CMI,CMI,Industrials,United States,NYQ,94152704000.0,^GSPC,0.13
+CVS Health Corporation,CVS,CVS,Healthcare,United States,NYQ,133729935360.0,^GSPC,0.18
+Danaher Corporation,DHR,DHR,Healthcare,United States,NYQ,137109323776.0,^GSPC,0.19
+"Darden Restaurants, Inc.",DRI,DRI,Consumer Cyclical,United States,NYQ,23130343424.0,^GSPC,0.03
+"Datadog, Inc.",DDOG,DDOG,Technology,United States,NMS,94144356352.0,^GSPC,0.13
+DaVita Inc.,DVA,DVA,Healthcare,United States,NYQ,14636105728.0,^GSPC,0.02
+Deckers Outdoor Corporation,DECK,DECK,Consumer Cyclical,United States,NYQ,13933927424.0,^GSPC,0.02
+Deere & Company,DE,DE,Industrials,United States,NYQ,169527443456.0,^GSPC,0.23
+Dell Technologies Inc.,DELL,DELL,Technology,United States,NYQ,274772049920.0,^GSPC,0.38
+"Delta Air Lines, Inc.",DAL,DAL,Industrials,United States,NYQ,61139894272.0,^GSPC,0.08
+Devon Energy Corporation,DVN,DVN,Energy,United States,NYQ,46424477696.0,^GSPC,0.06
+"DexCom, Inc.",DXCM,DXCM,Healthcare,United States,NMS,26571214848.0,^GSPC,0.04
+"Diamondback Energy, Inc.",FANG,FANG,Energy,United States,NMS,48374640640.0,^GSPC,0.07
+"Digital Realty Trust, Inc.",DLR,DLR,Real Estate,United States,NYQ,64173211648.0,^GSPC,0.09
+Dollar General Corporation,DG,DG,Consumer Defensive,United States,NYQ,25411579904.0,^GSPC,0.04
+"Dollar Tree, Inc.",DLTR,DLTR,Consumer Defensive,United States,NMS,23281952768.0,^GSPC,0.03
+"Dominion Energy, Inc.",D,D,Utilities,United States,NYQ,59622154240.0,^GSPC,0.08
+Domino's Pizza Inc,DPZ,DPZ,Consumer Cyclical,United States,NMS,10117595136.0,^GSPC,0.01
+"DoorDash, Inc.",DASH,DASH,Consumer Cyclical,United States,NMS,82294194176.0,^GSPC,0.11
+Dover Corporation,DOV,DOV,Industrials,United States,NYQ,29244418048.0,^GSPC,0.04
+Dow Inc.,DOW,DOW,Basic Materials,United States,NYQ,19474434048.0,^GSPC,0.03
+"D.R. Horton, Inc.",DHI,DHI,Consumer Cyclical,United States,NYQ,44539015168.0,^GSPC,0.06
+DTE Energy Company,DTE,DTE,Utilities,United States,NYQ,31322824704.0,^GSPC,0.04
+Duke Energy Corporation (Holdin,DUK,DUK,Utilities,United States,NYQ,98049810432.0,^GSPC,0.14
+"DuPont de Nemours, Inc.",DD,DD,Basic Materials,United States,NYQ,18696136704.0,^GSPC,0.03
+"Eaton Corporation, PLC",ETN,ETN,Industrials,Ireland,NYQ,160099975168.0,^GSPC,0.22
+eBay Inc.,EBAY,EBAY,Consumer Cyclical,United States,NMS,49408319488.0,^GSPC,0.07
+EchoStar Corporation,ECHO,ECHO,Communication Services,United States,NMS,29236385792.0,^GSPC,0.04
+Ecolab Inc.,ECL,ECL,Basic Materials,United States,NYQ,78343757824.0,^GSPC,0.11
+Edison International,EIX,EIX,Utilities,United States,NYQ,28282355712.0,^GSPC,0.04
+Edwards Lifesciences Corporatio,EW,EW,Healthcare,United States,NYQ,52967841792.0,^GSPC,0.07
+Electronic Arts Inc.,EA,EA,Communication Services,United States,NMS,51516891136.0,^GSPC,0.07
+"Elevance Health, Inc.",ELV,ELV,Healthcare,United States,NYQ,90380812288.0,^GSPC,0.12
+"EMCOR Group, Inc.",EME,EME,Industrials,United States,NYQ,35818881024.0,^GSPC,0.05
+Emerson Electric Company,EMR,EMR,Industrials,United States,NYQ,78145150976.0,^GSPC,0.11
+Entergy Corporation,ETR,ETR,Utilities,United States,NYQ,52659924992.0,^GSPC,0.07
+"EOG Resources, Inc.",EOG,EOG,Energy,United States,NYQ,68490702848.0,^GSPC,0.09
+EQT Corporation,EQT,EQT,Energy,United States,NYQ,32825085952.0,^GSPC,0.05
+"Equifax, Inc.",EFX,EFX,Industrials,United States,NYQ,19563313152.0,^GSPC,0.03
+"Equinix, Inc.",EQIX,EQIX,Real Estate,United States,NMS,99967508480.0,^GSPC,0.14
+Equity Residential,EQR,EQR,Real Estate,United States,NYQ,26516983808.0,^GSPC,0.04
+Erie Indemnity Company,ERIE,ERIE,Financial Services,United States,NMS,13034034176.0,^GSPC,0.02
+"Essex Property Trust, Inc.",ESS,ESS,Real Estate,United States,NYQ,20345632768.0,^GSPC,0.03
+"Estee Lauder Companies, Inc. (T",EL,EL,Consumer Defensive,United States,NYQ,29837225984.0,^GSPC,0.04
+"Everest Group, Ltd.",EG,EG,Financial Services,Bermuda,NYQ,14243005440.0,^GSPC,0.02
+"Evergy, Inc.",EVRG,EVRG,Utilities,United States,NMS,19867918336.0,^GSPC,0.03
+Eversource Energy (D/B/A),ES,ES,Utilities,United States,NYQ,27152977920.0,^GSPC,0.04
+Exelon Corporation,EXC,EXC,Utilities,United States,NMS,47333605376.0,^GSPC,0.07
+Expand Energy Corporation,EXE,EXE,Energy,United States,NMS,21427728384.0,^GSPC,0.03
+"Expedia Group, Inc.",EXPE,EXPE,Consumer Cyclical,United States,NMS,31750641664.0,^GSPC,0.04
+Expeditors International of Was,EXPD,EXPD,Industrials,United States,NYQ,21817268224.0,^GSPC,0.03
+Extra Space Storage Inc,EXR,EXR,Real Estate,United States,NYQ,32506005504.0,^GSPC,0.04
+Exxon Mobil Corporation,XOM,XOM,Energy,United States,NYQ,564873396224.0,^GSPC,0.78
+"F5, Inc.",FFIV,FFIV,Technology,United States,NMS,23931916288.0,^GSPC,0.03
+FactSet Research Systems Inc.,FDS,FDS,Financial Services,United States,NYQ,8945664000.0,^GSPC,0.01
+Fair Isaac Corporation,FICO,FICO,Technology,United States,NYQ,27983306752.0,^GSPC,0.04
+Fastenal Company,FAST,FAST,Industrials,United States,NMS,54818676736.0,^GSPC,0.08
+Federal Realty Investment Trust,FRT,FRT,Real Estate,United States,NYQ,10465845248.0,^GSPC,0.01
+FedEx Corporation,FDX,FDX,Industrials,United States,NYQ,74896277504.0,^GSPC,0.1
+"FedEx Freight Holding Company, ",FDXF,FDXF,Industrials,United States,NYQ,23195113472.0,^GSPC,0.03
+Fidelity National Information S,FIS,FIS,Technology,United States,NYQ,21088667648.0,^GSPC,0.03
+Fifth Third Bancorp,FITB,FITB,Financial Services,United States,NYQ,52103852032.0,^GSPC,0.07
+"First Solar, Inc.",FSLR,FSLR,Technology,United States,NMS,24937775104.0,^GSPC,0.03
+FirstEnergy Corp.,FE,FE,Utilities,United States,NYQ,27226755072.0,^GSPC,0.04
+"Fiserv, Inc.",FISV,FISV,Non disponible,Non disponible,NMS,27051974656.0,^GSPC,0.04
+Flex Ltd.,FLEX,FLEX,Technology,United States,NMS,56251789312.0,^GSPC,0.08
+Ford Motor Company,F,F,Consumer Cyclical,United States,NYQ,54351208448.0,^GSPC,0.08
+"Fortinet, Inc.",FTNT,FTNT,Technology,United States,NMS,116476436480.0,^GSPC,0.16
+Fortive Corporation,FTV,FTV,Technology,United States,NYQ,18840410112.0,^GSPC,0.03
+Fox Corporation,FOXA,FOXA,Communication Services,United States,NMS,22729222144.0,^GSPC,0.03
+Fox Corporation,FOX,FOX,Communication Services,United States,NMS,20331587584.0,^GSPC,0.03
+"Franklin Resources, Inc.",BEN,BEN,Financial Services,United States,NYQ,17698842624.0,^GSPC,0.02
+"Freeport-McMoRan, Inc.",FCX,FCX,Basic Materials,United States,NYQ,87015489536.0,^GSPC,0.12
+Garmin Ltd.,GRMN,GRMN,Technology,Switzerland,NYQ,45830348800.0,^GSPC,0.06
+"Gartner, Inc.",IT,IT,Technology,United States,NYQ,8955484160.0,^GSPC,0.01
+GE Aerospace,GE,GE,Industrials,United States,NYQ,391748419584.0,^GSPC,0.54
+GE HealthCare Technologies Inc.,GEHC,GEHC,Healthcare,United States,NMS,29504280576.0,^GSPC,0.04
+GE Vernova Inc.,GEV,GEV,Industrials,United States,NYQ,304822517760.0,^GSPC,0.42
+Gen Digital Inc.,GEN,GEN,Technology,United States,NMS,15729548288.0,^GSPC,0.02
+Generac Holdlings Inc.,GNRC,GNRC,Industrials,United States,NYQ,15907494912.0,^GSPC,0.02
+General Dynamics Corporation,GD,GD,Industrials,United States,NYQ,98128289792.0,^GSPC,0.14
+"General Mills, Inc.",GIS,GIS,Consumer Defensive,United States,NYQ,20157138944.0,^GSPC,0.03
+General Motors Company,GM,GM,Consumer Cyclical,United States,NYQ,68093755392.0,^GSPC,0.09
+Genuine Parts Company,GPC,GPC,Consumer Cyclical,United States,NYQ,16332936192.0,^GSPC,0.02
+"Gilead Sciences, Inc.",GILD,GILD,Healthcare,United States,NMS,156400566272.0,^GSPC,0.22
+Global Payments Inc.,GPN,GPN,Industrials,United States,NYQ,20529442816.0,^GSPC,0.03
+Globe Life Inc.,GL,GL,Financial Services,United States,NYQ,13981492224.0,^GSPC,0.02
+GoDaddy Inc.,GDDY,GDDY,Technology,United States,NYQ,11507740672.0,^GSPC,0.02
+"Goldman Sachs Group, Inc. (The)",GS,GS,Financial Services,United States,NYQ,300792512512.0,^GSPC,0.42
+Halliburton Company,HAL,HAL,Energy,United States,NYQ,27576477696.0,^GSPC,0.04
+"The Hartford Insurance Group, I",HIG,HIG,Financial Services,United States,NYQ,36703375360.0,^GSPC,0.05
+"Hasbro, Inc.",HAS,HAS,Consumer Cyclical,United States,NMS,11525831680.0,^GSPC,0.02
+"HCA Healthcare, Inc.",HCA,HCA,Healthcare,United States,NYQ,87236280320.0,^GSPC,0.12
+"Healthpeak Properties, Inc.",DOC,DOC,Real Estate,United States,NYQ,14919042048.0,^GSPC,0.02
+"Henry Schein, Inc.",HSIC,HSIC,Healthcare,United States,NMS,9628243968.0,^GSPC,0.01
+The Hershey Company,HSY,HSY,Consumer Defensive,United States,NYQ,36242026496.0,^GSPC,0.05
+Hewlett Packard Enterprise Comp,HPE,HPE,Technology,United States,NYQ,58198745088.0,^GSPC,0.08
+Hilton Worldwide Holdings Inc.,HLT,HLT,Consumer Cyclical,United States,NYQ,75606573056.0,^GSPC,0.1
+"Home Depot, Inc. (The)",HD,HD,Consumer Cyclical,United States,NYQ,349828415488.0,^GSPC,0.48
+Non disponible,HONA,HONA,Industrials,United States,NGM,72037228544.0,^GSPC,0.1
+Honeywell International Inc.,HON,HON,Industrials,United States,NMS,70256287744.0,^GSPC,0.1
+Hormel Foods Corporation,HRL,HRL,Consumer Defensive,United States,NYQ,13691071488.0,^GSPC,0.02
+"Host Hotels & Resorts, Inc.",HST,HST,Real Estate,United States,NMS,16199442432.0,^GSPC,0.02
+Howmet Aerospace Inc.,HWM,HWM,Industrials,United States,NYQ,106992746496.0,^GSPC,0.15
+HP Inc.,HPQ,HPQ,Technology,United States,NYQ,20137789440.0,^GSPC,0.03
+Hubbell Inc,HUBB,HUBB,Industrials,United States,NYQ,25898811392.0,^GSPC,0.04
+Humana Inc.,HUM,HUM,Healthcare,United States,NYQ,49155584000.0,^GSPC,0.07
+Huntington Bancshares Incorpora,HBAN,HBAN,Financial Services,United States,NMS,36711337984.0,^GSPC,0.05
+"Huntington Ingalls Industries, ",HII,HII,Industrials,United States,NYQ,10992541696.0,^GSPC,0.02
+International Business Machines,IBM,IBM,Technology,United States,NYQ,269042171904.0,^GSPC,0.37
+IDEX Corporation,IEX,IEX,Industrials,United States,NYQ,16650427392.0,^GSPC,0.02
+"IDEXX Laboratories, Inc.",IDXX,IDXX,Healthcare,United States,NMS,42405924864.0,^GSPC,0.06
+Illinois Tool Works Inc.,ITW,ITW,Industrials,United States,NYQ,77382672384.0,^GSPC,0.11
+Incyte Corporation,INCY,INCY,Healthcare,United States,NMS,22737207296.0,^GSPC,0.03
+Ingersoll Rand Inc.,IR,IR,Industrials,United States,NYQ,31643496448.0,^GSPC,0.04
+Insulet Corporation,PODD,PODD,Healthcare,United States,NMS,11067801600.0,^GSPC,0.02
+Intel Corporation,INTC,INTC,Technology,United States,NMS,638402494464.0,^GSPC,0.88
+"Interactive Brokers Group, Inc.",IBKR,IBKR,Financial Services,United States,NMS,158172725248.0,^GSPC,0.22
+Intercontinental Exchange Inc.,ICE,ICE,Financial Services,United States,NYQ,71667400704.0,^GSPC,0.1
+International Flavors & Fragran,IFF,IFF,Basic Materials,United States,NYQ,20717877248.0,^GSPC,0.03
+International Paper Company,IP,IP,Consumer Cyclical,United States,NYQ,20301680640.0,^GSPC,0.03
+Intuit Inc.,INTU,INTU,Technology,United States,NMS,73056256000.0,^GSPC,0.1
+"Intuitive Surgical, Inc.",ISRG,ISRG,Healthcare,United States,NMS,142508048384.0,^GSPC,0.2
+Invesco Ltd,IVZ,IVZ,Financial Services,United States,NYQ,11893648384.0,^GSPC,0.02
+Invitation Homes Inc.,INVH,INVH,Real Estate,United States,NYQ,18029174784.0,^GSPC,0.02
+"IQVIA Holdings, Inc.",IQV,IQV,Healthcare,United States,NYQ,33914079232.0,^GSPC,0.05
+Iron Mountain Incorporated (Del,IRM,IRM,Real Estate,United States,NYQ,36268257280.0,^GSPC,0.05
+"J.B. Hunt Transport Services, I",JBHT,JBHT,Industrials,United States,NMS,27353370624.0,^GSPC,0.04
+Jabil Inc.,JBL,JBL,Technology,United States,NYQ,39330783232.0,^GSPC,0.05
+"Jack Henry & Associates, Inc.",JKHY,JKHY,Technology,United States,NMS,10119052288.0,^GSPC,0.01
+Jacobs Solutions Inc.,J,J,Industrials,United States,NYQ,14716420096.0,^GSPC,0.02
+Johnson & Johnson,JNJ,JNJ,Healthcare,United States,NYQ,611384950784.0,^GSPC,0.85
+Johnson Controls International ,JCI,JCI,Industrials,Ireland,NYQ,88344739840.0,^GSPC,0.12
+JP Morgan Chase & Co.,JPM,JPM,Financial Services,United States,NYQ,895144361984.0,^GSPC,1.24
+Kenvue Inc.,KVUE,KVUE,Consumer Defensive,United States,NYQ,37113769984.0,^GSPC,0.05
+Keurig Dr Pepper Inc.,KDP,KDP,Consumer Defensive,United States,NMS,45401870336.0,^GSPC,0.06
+KeyCorp,KEY,KEY,Financial Services,United States,NYQ,25095321600.0,^GSPC,0.03
+Keysight Technologies Inc.,KEYS,KEYS,Technology,United States,NYQ,57352482816.0,^GSPC,0.08
+Kimberly-Clark Corporation,KMB,KMB,Consumer Defensive,United States,NMS,36991434752.0,^GSPC,0.05
+Kimco Realty Corporation (HC),KIM,KIM,Real Estate,United States,NYQ,16913694720.0,^GSPC,0.02
+"Kinder Morgan, Inc.",KMI,KMI,Energy,United States,NYQ,70571474944.0,^GSPC,0.1
+KKR & Co. Inc.,KKR,KKR,Financial Services,United States,NYQ,86306783232.0,^GSPC,0.12
+KLA Corporation,KLAC,KLAC,Technology,United States,NMS,347717402624.0,^GSPC,0.48
+The Kraft Heinz Company,KHC,KHC,Consumer Defensive,United States,NMS,29656299520.0,^GSPC,0.04
+Kroger Company (The),KR,KR,Consumer Defensive,United States,NYQ,34455285760.0,^GSPC,0.05
+"L3Harris Technologies, Inc.",LHX,LHX,Industrials,United States,NYQ,54440972288.0,^GSPC,0.08
+Labcorp Holdings Inc.,LH,LH,Healthcare,United States,NYQ,23278159872.0,^GSPC,0.03
+Lam Research Corporation,LRCX,LRCX,Technology,United States,NMS,489298427904.0,^GSPC,0.68
+Las Vegas Sands Corp.,LVS,LVS,Consumer Cyclical,United States,NYQ,30646976512.0,^GSPC,0.04
+"Leidos Holdings, Inc.",LDOS,LDOS,Technology,United States,NYQ,12964707328.0,^GSPC,0.02
+Lennar Corporation,LEN,LEN,Consumer Cyclical,United States,NYQ,20972328960.0,^GSPC,0.03
+"Lennox International, Inc.",LII,LII,Industrials,United States,NYQ,19873566720.0,^GSPC,0.03
+Eli Lilly and Company,LLY,LLY,Healthcare,United States,NYQ,1062723846144.0,^GSPC,1.47
+Linde plc,LIN,LIN,Basic Materials,United Kingdom,NMS,246685401088.0,^GSPC,0.34
+"Live Nation Entertainment, Inc.",LYV,LYV,Communication Services,United States,NYQ,42814500864.0,^GSPC,0.06
+Lockheed Martin Corporation,LMT,LMT,Industrials,United States,NYQ,120312709120.0,^GSPC,0.17
+Loews Corporation,L,L,Financial Services,United States,NYQ,23482345472.0,^GSPC,0.03
+"Lowe's Companies, Inc.",LOW,LOW,Consumer Cyclical,United States,NYQ,124497117184.0,^GSPC,0.17
+lululemon athletica inc.,LULU,LULU,Consumer Cyclical,Canada,NMS,13217676288.0,^GSPC,0.02
+Lumentum Holdings Inc.,LITE,LITE,Technology,United States,NMS,62330245120.0,^GSPC,0.09
+LyondellBasell Industries NV,LYB,LYB,Basic Materials,Netherlands,NYQ,16972023808.0,^GSPC,0.02
+M&T Bank Corporation,MTB,MTB,Financial Services,United States,NYQ,35432382464.0,^GSPC,0.05
+Marathon Petroleum Corporation,MPC,MPC,Energy,United States,NYQ,77325254656.0,^GSPC,0.11
+Marriott International,MAR,MAR,Consumer Cyclical,United States,NMS,97121796096.0,^GSPC,0.13
+Marsh,MRSH,MRSH,Financial Services,United States,NYQ,82936102912.0,^GSPC,0.11
+"Martin Marietta Materials, Inc.",MLM,MLM,Basic Materials,United States,NYQ,34780987392.0,^GSPC,0.05
+"Marvell Technology, Inc.",MRVL,MRVL,Technology,United States,NMS,238194229248.0,^GSPC,0.33
+Masco Corporation,MAS,MAS,Industrials,United States,NYQ,16469599232.0,^GSPC,0.02
+Mastercard Incorporated,MA,MA,Financial Services,United States,NYQ,461619560448.0,^GSPC,0.64
+"McCormick & Company, Incorporat",MKC,MKC,Consumer Defensive,United States,NYQ,14224935936.0,^GSPC,0.02
+McDonald's Corporation,MCD,MCD,Consumer Cyclical,United States,NYQ,191431589888.0,^GSPC,0.26
+McKesson Corporation,MCK,MCK,Healthcare,United States,NYQ,89922732032.0,^GSPC,0.12
+Medtronic plc.,MDT,MDT,Healthcare,Ireland,NYQ,101379571712.0,^GSPC,0.14
+"Merck & Company, Inc.",MRK,MRK,Healthcare,United States,NYQ,309641904128.0,^GSPC,0.43
+"Meta Platforms, Inc.",META,META,Communication Services,United States,NMS,1555824902144.0,^GSPC,2.15
+"MetLife, Inc.",MET,MET,Financial Services,United States,NYQ,56107687936.0,^GSPC,0.08
+"Mettler-Toledo International, I",MTD,MTD,Healthcare,Switzerland,NYQ,26277558272.0,^GSPC,0.04
+MGM Resorts International,MGM,MGM,Consumer Cyclical,United States,NYQ,12158050304.0,^GSPC,0.02
+Microchip Technology Incorporat,MCHP,MCHP,Technology,United States,NMS,48077012992.0,^GSPC,0.07
+"Micron Technology, Inc.",MU,MU,Technology,United States,NMS,1165850050560.0,^GSPC,1.61
+Microsoft Corporation,MSFT,MSFT,Technology,United States,NMS,2854599000064.0,^GSPC,3.95
+Mid-America Apartment Communiti,MAA,MAA,Real Estate,United States,NYQ,16698570752.0,^GSPC,0.02
+"Moderna, Inc.",MRNA,MRNA,Healthcare,United States,NMS,28767004672.0,^GSPC,0.04
+Molson Coors Beverage Company,TAP,TAP,Consumer Defensive,United States,NYQ,7322005504.0,^GSPC,0.01
+"Mondelez International, Inc.",MDLZ,MDLZ,Consumer Defensive,United States,NMS,76184616960.0,^GSPC,0.11
+"Monolithic Power Systems, Inc.",MPWR,MPWR,Technology,United States,NMS,65427894272.0,^GSPC,0.09
+Monster Beverage Corporation,MNST,MNST,Consumer Defensive,United States,NMS,95209086976.0,^GSPC,0.13
+Moody's Corporation,MCO,MCO,Financial Services,United States,NYQ,81814945792.0,^GSPC,0.11
+Morgan Stanley,MS,MS,Financial Services,United States,NYQ,334163574784.0,^GSPC,0.46
+Mosaic Company (The),MOS,MOS,Basic Materials,United States,NYQ,6770133504.0,^GSPC,0.01
+"Motorola Solutions, Inc.",MSI,MSI,Technology,United States,NYQ,69542191104.0,^GSPC,0.1
+MSCI Inc.,MSCI,MSCI,Financial Services,United States,NYQ,42329640960.0,^GSPC,0.06
+"Nasdaq, Inc.",NDAQ,NDAQ,Financial Services,United States,NMS,46787190784.0,^GSPC,0.06
+"NetApp, Inc.",NTAP,NTAP,Technology,United States,NMS,30637957120.0,^GSPC,0.04
+"Netflix, Inc.",NFLX,NFLX,Communication Services,United States,NMS,312399167488.0,^GSPC,0.43
+Newmont Corporation,NEM,NEM,Basic Materials,United States,NYQ,99602677760.0,^GSPC,0.14
+News Corporation,NWSA,NWSA,Communication Services,United States,NMS,14018210816.0,^GSPC,0.02
+News Corporation,NWS,NWS,Communication Services,United States,NMS,15905068032.0,^GSPC,0.02
+"NextEra Energy, Inc.",NEE,NEE,Utilities,United States,NYQ,180133740544.0,^GSPC,0.25
+"Nike, Inc.",NKE,NKE,Consumer Cyclical,United States,NYQ,63766999040.0,^GSPC,0.09
+NiSource Inc,NI,NI,Utilities,United States,NYQ,22471315456.0,^GSPC,0.03
+Nordson Corporation,NDSN,NDSN,Industrials,United States,NMS,16472455168.0,^GSPC,0.02
+Norfolk Southern Corporation,NSC,NSC,Industrials,United States,NYQ,71643234304.0,^GSPC,0.1
+Northern Trust Corporation,NTRS,NTRS,Financial Services,United States,NMS,32494301184.0,^GSPC,0.04
+Northrop Grumman Corporation,NOC,NOC,Industrials,United States,NYQ,73850306560.0,^GSPC,0.1
+Norwegian Cruise Line Holdings ,NCLH,NCLH,Consumer Cyclical,United States,NYQ,9489806336.0,^GSPC,0.01
+"NRG Energy, Inc.",NRG,NRG,Utilities,United States,NYQ,29706895360.0,^GSPC,0.04
+Nucor Corporation,NUE,NUE,Basic Materials,United States,NYQ,49879822336.0,^GSPC,0.07
+NVIDIA Corporation,NVDA,NVDA,Technology,United States,NMS,4785584996352.0,^GSPC,6.62
+"NVR, Inc.",NVR,NVR,Consumer Cyclical,United States,NYQ,17933367296.0,^GSPC,0.02
+NXP Semiconductors N.V.,NXPI,NXPI,Technology,Netherlands,NMS,70484869120.0,^GSPC,0.1
+"O'Reilly Automotive, Inc.",ORLY,ORLY,Consumer Cyclical,United States,NMS,76813598720.0,^GSPC,0.11
+Occidental Petroleum Corporatio,OXY,OXY,Energy,United States,NYQ,47682785280.0,^GSPC,0.07
+"Old Dominion Freight Line, Inc.",ODFL,ODFL,Industrials,United States,NMS,45328769024.0,^GSPC,0.06
+Omnicom Group Inc.,OMC,OMC,Communication Services,United States,NYQ,21691822080.0,^GSPC,0.03
+ON Semiconductor Corporation,ON,ON,Technology,United States,NMS,36828631040.0,^GSPC,0.05
+"ONEOK, Inc.",OKE,OKE,Energy,United States,NYQ,54012715008.0,^GSPC,0.07
+Oracle Corporation,ORCL,ORCL,Technology,United States,NYQ,410467106816.0,^GSPC,0.57
+Otis Worldwide Corporation,OTIS,OTIS,Industrials,United States,NYQ,27105701888.0,^GSPC,0.04
+PACCAR Inc.,PCAR,PCAR,Industrials,United States,NMS,63806943232.0,^GSPC,0.09
+Packaging Corporation of Americ,PKG,PKG,Consumer Cyclical,United States,NYQ,21199241216.0,^GSPC,0.03
+Palantir Technologies Inc.,PLTR,PLTR,Technology,United States,NMS,301414055936.0,^GSPC,0.42
+"Palo Alto Networks, Inc.",PANW,PANW,Technology,United States,NMS,286912610304.0,^GSPC,0.4
+Paramount Skydance Corporation,PSKY,PSKY,Communication Services,United States,NMS,11381990400.0,^GSPC,0.02
+Parker-Hannifin Corporation,PH,PH,Industrials,United States,NYQ,121523322880.0,^GSPC,0.17
+"Paychex, Inc.",PAYX,PAYX,Technology,United States,NMS,36523675648.0,^GSPC,0.05
+"PayPal Holdings, Inc.",PYPL,PYPL,Financial Services,United States,NMS,38874386432.0,^GSPC,0.05
+Pentair plc.,PNR,PNR,Industrials,United Kingdom,NYQ,12343430144.0,^GSPC,0.02
+"Pepsico, Inc.",PEP,PEP,Consumer Defensive,United States,NMS,192957382656.0,^GSPC,0.27
+"Pfizer, Inc.",PFE,PFE,Healthcare,United States,NYQ,136102723584.0,^GSPC,0.19
+Pacific Gas & Electric Co.,PCG,PCG,Utilities,United States,NYQ,36490862592.0,^GSPC,0.05
+Philip Morris International Inc,PM,PM,Consumer Defensive,United States,NYQ,276940324864.0,^GSPC,0.38
+Phillips 66,PSX,PSX,Energy,United States,NYQ,69963161600.0,^GSPC,0.1
+Pinnacle West Capital Corporati,PNW,PNW,Utilities,United States,NYQ,12882196480.0,^GSPC,0.02
+"PNC Financial Services Group, I",PNC,PNC,Financial Services,United States,NYQ,101041692672.0,^GSPC,0.14
+"PPG Industries, Inc.",PPG,PPG,Basic Materials,United States,NYQ,27329769472.0,^GSPC,0.04
+PPL Corporation,PPL,PPL,Utilities,United States,NYQ,26798718976.0,^GSPC,0.04
+Principal Financial Group Inc,PFG,PFG,Financial Services,United States,NMS,23530229760.0,^GSPC,0.03
+Procter & Gamble Company (The),PG,PG,Consumer Defensive,United States,NYQ,343305355264.0,^GSPC,0.47
+Progressive Corporation (The),PGR,PGR,Financial Services,United States,NYQ,131169665024.0,^GSPC,0.18
+"Prologis, Inc.",PLD,PLD,Real Estate,United States,NYQ,128187621376.0,^GSPC,0.18
+"Prudential Financial, Inc.",PRU,PRU,Financial Services,United States,NYQ,38577401856.0,^GSPC,0.05
+Public Service Enterprise Group,PEG,PEG,Utilities,United States,NYQ,40000258048.0,^GSPC,0.06
+PTC Inc.,PTC,PTC,Technology,United States,NMS,13835283456.0,^GSPC,0.02
+Public Storage,PSA,PSA,Real Estate,United States,NYQ,56719249408.0,^GSPC,0.08
+"PulteGroup, Inc.",PHM,PHM,Consumer Cyclical,United States,NYQ,25256585216.0,^GSPC,0.03
+"Quanta Services, Inc.",PWR,PWR,Industrials,United States,NYQ,103751589888.0,^GSPC,0.14
+QUALCOMM Incorporated,QCOM,QCOM,Technology,United States,NMS,191743672320.0,^GSPC,0.27
+Quest Diagnostics Incorporated,DGX,DGX,Healthcare,United States,NYQ,23912644608.0,^GSPC,0.03
+"Qnity Electronics, Inc.",Q,Q,Technology,United States,NYQ,32106352640.0,^GSPC,0.04
+Ralph Lauren Corporation,RL,RL,Consumer Cyclical,United States,NYQ,23688693760.0,^GSPC,0.03
+"Raymond James Financial, Inc.",RJF,RJF,Financial Services,United States,NYQ,30828548096.0,^GSPC,0.04
+RTX Corporation,RTX,RTX,Industrials,United States,NYQ,258266939392.0,^GSPC,0.36
+Realty Income Corporation,O,O,Real Estate,United States,NYQ,57646690304.0,^GSPC,0.08
+Regency Centers Corporation,REG,REG,Real Estate,United States,NMS,14837029888.0,^GSPC,0.02
+"Regeneron Pharmaceuticals, Inc.",REGN,REGN,Healthcare,United States,NMS,65495035904.0,^GSPC,0.09
+Regions Financial Corporation,RF,RF,Financial Services,United States,NYQ,26284089344.0,^GSPC,0.04
+"Republic Services, Inc.",RSG,RSG,Industrials,United States,NYQ,66058559488.0,^GSPC,0.09
+ResMed Inc.,RMD,RMD,Healthcare,United States,NYQ,29170839552.0,^GSPC,0.04
+"Revvity, Inc.",RVTY,RVTY,Healthcare,United States,NYQ,12588404736.0,^GSPC,0.02
+"Robinhood Markets, Inc.",HOOD,HOOD,Financial Services,United States,NMS,97839882240.0,^GSPC,0.14
+"Rockwell Automation, Inc.",ROK,ROK,Industrials,United States,NYQ,53725290496.0,^GSPC,0.07
+"Rollins, Inc.",ROL,ROL,Consumer Cyclical,United States,NYQ,20288878592.0,^GSPC,0.03
+"Roper Technologies, Inc.",ROP,ROP,Technology,United States,NMS,35793367040.0,^GSPC,0.05
+"Ross Stores, Inc.",ROST,ROST,Consumer Cyclical,United States,NMS,67973509120.0,^GSPC,0.09
+Royal Caribbean Cruises Ltd.,RCL,RCL,Consumer Cyclical,United States,NYQ,82148114432.0,^GSPC,0.11
+S&P Global Inc.,SPGI,SPGI,Financial Services,United States,NYQ,122831118336.0,^GSPC,0.17
+"Salesforce, Inc.",CRM,CRM,Technology,United States,NYQ,133685362688.0,^GSPC,0.18
+Sandisk Corporation,SNDK,SNDK,Technology,United States,NMS,300950978560.0,^GSPC,0.42
+SBA Communications Corporation,SBAC,SBAC,Real Estate,United States,NMS,19170889728.0,^GSPC,0.03
+SLB Limited,SLB,SLB,Energy,United States,NYQ,67412152320.0,^GSPC,0.09
+Seagate Technology Holdings PLC,STX,STX,Technology,Singapore,NMS,205212139520.0,^GSPC,0.28
+DBA Sempra,SRE,SRE,Utilities,United States,NYQ,59729244160.0,^GSPC,0.08
+"ServiceNow, Inc.",NOW,NOW,Technology,United States,NYQ,109112393728.0,^GSPC,0.15
+Sherwin-Williams Company (The),SHW,SHW,Basic Materials,United States,NYQ,85348253696.0,^GSPC,0.12
+"Simon Property Group, Inc.",SPG,SPG,Real Estate,United States,NYQ,84735451136.0,^GSPC,0.12
+"Skyworks Solutions, Inc.",SWKS,SWKS,Technology,United States,NMS,9916265472.0,^GSPC,0.01
+The J.M. Smucker Company,SJM,SJM,Consumer Defensive,United States,NYQ,12276316160.0,^GSPC,0.02
+Smurfit WestRock plc,SW,SW,Consumer Cyclical,Ireland,NYQ,24172548096.0,^GSPC,0.03
+Snap-On Incorporated,SNA,SNA,Industrials,United States,NYQ,20890677248.0,^GSPC,0.03
+Solventum Corporation,SOLV,SOLV,Healthcare,United States,NYQ,13568238592.0,^GSPC,0.02
+Southern Company (The),SO,SO,Utilities,United States,NYQ,107228889088.0,^GSPC,0.15
+Southwest Airlines Company,LUV,LUV,Industrials,United States,NYQ,24668409856.0,^GSPC,0.03
+"Stanley Black & Decker, Inc.",SWK,SWK,Industrials,United States,NYQ,14199311360.0,^GSPC,0.02
+Starbucks Corporation,SBUX,SBUX,Consumer Cyclical,United States,NMS,117833580544.0,^GSPC,0.16
+State Street Corporation,STT,STT,Financial Services,United States,NYQ,46959063040.0,^GSPC,0.06
+"Steel Dynamics, Inc.",STLD,STLD,Basic Materials,United States,NMS,31980625920.0,^GSPC,0.04
+STERIS plc (Ireland),STE,STE,Healthcare,United States,NYQ,20690266112.0,^GSPC,0.03
+Stryker Corporation,SYK,SYK,Healthcare,United States,NYQ,120141438976.0,^GSPC,0.17
+"Super Micro Computer, Inc.",SMCI,SMCI,Technology,United States,NMS,17886038016.0,^GSPC,0.02
+Synchrony Financial,SYF,SYF,Financial Services,United States,NYQ,25823141888.0,^GSPC,0.04
+"Synopsys, Inc.",SNPS,SNPS,Technology,United States,NMS,87033102336.0,^GSPC,0.12
+Sysco Corporation,SYY,SYY,Consumer Defensive,United States,NYQ,39942590464.0,^GSPC,0.06
+"T-Mobile US, Inc.",TMUS,TMUS,Communication Services,United States,NMS,187286339584.0,^GSPC,0.26
+"T. Rowe Price Group, Inc.",TROW,TROW,Financial Services,United States,NMS,24878495744.0,^GSPC,0.03
+"Take-Two Interactive Software, ",TTWO,TTWO,Communication Services,United States,NMS,46476079104.0,^GSPC,0.06
+"Tapestry, Inc.",TPR,TPR,Consumer Cyclical,United States,NYQ,29092419584.0,^GSPC,0.04
+"Targa Resources, Inc.",TRGP,TRGP,Energy,United States,NYQ,55337345024.0,^GSPC,0.08
+Target Corporation,TGT,TGT,Consumer Defensive,United States,NYQ,59176554496.0,^GSPC,0.08
+TE Connectivity plc,TEL,TEL,Technology,Ireland,NYQ,58799493120.0,^GSPC,0.08
+Teledyne Technologies Incorpora,TDY,TDY,Technology,United States,NYQ,30632824832.0,^GSPC,0.04
+"Teradyne, Inc.",TER,TER,Technology,United States,NMS,66896728064.0,^GSPC,0.09
+"Tesla, Inc.",TSLA,TSLA,Consumer Cyclical,United States,NMS,1597309321216.0,^GSPC,2.21
+Texas Instruments Incorporated,TXN,TXN,Technology,United States,NMS,271580790784.0,^GSPC,0.38
+Texas Pacific Land Corporation,TPL,TPL,Energy,United States,NYQ,28625768448.0,^GSPC,0.04
+Textron Inc.,TXT,TXT,Industrials,United States,NYQ,15985613824.0,^GSPC,0.02
+Thermo Fisher Scientific Inc,TMO,TMO,Healthcare,United States,NYQ,190764449792.0,^GSPC,0.26
+"TJX Companies, Inc. (The)",TJX,TJX,Consumer Cyclical,United States,NYQ,167197016064.0,^GSPC,0.23
+"TKO Group Holdings, Inc.",TKO,TKO,Communication Services,United States,NYQ,38689693696.0,^GSPC,0.05
+"The Trade Desk, Inc.",TTD,TTD,Communication Services,United States,NGM,9002574848.0,^GSPC,0.01
+Tractor Supply Company,TSCO,TSCO,Consumer Cyclical,United States,NMS,16918743040.0,^GSPC,0.02
+Trane Technologies plc,TT,TT,Industrials,Ireland,NYQ,107119058944.0,^GSPC,0.15
+Transdigm Group Incorporated,TDG,TDG,Industrials,United States,NYQ,73227132928.0,^GSPC,0.1
+"The Travelers Companies, Inc.",TRV,TRV,Financial Services,United States,NYQ,71155163136.0,^GSPC,0.1
+Trimble Inc.,TRMB,TRMB,Technology,United States,NMS,12257004544.0,^GSPC,0.02
+Truist Financial Corporation,TFC,TFC,Financial Services,United States,NYQ,63402795008.0,^GSPC,0.09
+"Tyler Technologies, Inc.",TYL,TYL,Technology,United States,NYQ,12410871808.0,^GSPC,0.02
+"Tyson Foods, Inc.",TSN,TSN,Consumer Defensive,United States,NYQ,20574920704.0,^GSPC,0.03
+U.S. Bancorp,USB,USB,Financial Services,United States,NYQ,96517054464.0,^GSPC,0.13
+"Uber Technologies, Inc.",UBER,UBER,Technology,United States,NYQ,147906625536.0,^GSPC,0.2
+"UDR, Inc.",UDR,UDR,Real Estate,United States,NYQ,15050345472.0,^GSPC,0.02
+"Ulta Beauty, Inc.",ULTA,ULTA,Consumer Cyclical,United States,NMS,19550679040.0,^GSPC,0.03
+Union Pacific Corporation,UNP,UNP,Industrials,United States,NYQ,164891983872.0,^GSPC,0.23
+"United Airlines Holdings, Inc.",UAL,UAL,Industrials,United States,NMS,43859107840.0,^GSPC,0.06
+"United Parcel Service, Inc.",UPS,UPS,Industrials,United States,NYQ,93109690368.0,^GSPC,0.13
+"United Rentals, Inc.",URI,URI,Industrials,United States,NYQ,69647933440.0,^GSPC,0.1
+UnitedHealth Group Incorporated,UNH,UNH,Healthcare,United States,NYQ,387359899648.0,^GSPC,0.54
+"Universal Health Services, Inc.",UHS,UHS,Healthcare,United States,NYQ,9115564032.0,^GSPC,0.01
+Valero Energy Corporation,VLO,VLO,Energy,United States,NYQ,80005562368.0,^GSPC,0.11
+Veeva Systems Inc.,VEEV,VEEV,Healthcare,United States,NYQ,29925304320.0,^GSPC,0.04
+"Ventas, Inc.",VTR,VTR,Real Estate,United States,NYQ,43585118208.0,^GSPC,0.06
+Veralto Corp,VLTO,VLTO,Industrials,United States,NYQ,22187436032.0,^GSPC,0.03
+"VeriSign, Inc.",VRSN,VRSN,Technology,United States,NMS,23286898688.0,^GSPC,0.03
+"Verisk Analytics, Inc.",VRSK,VRSK,Industrials,United States,NMS,24071331840.0,^GSPC,0.03
+Verizon Communications Inc.,VZ,VZ,Communication Services,United States,NYQ,175331721216.0,^GSPC,0.24
+Vertex Pharmaceuticals Incorpor,VRTX,VRTX,Healthcare,United States,NMS,126397644800.0,^GSPC,0.17
+"Vertiv Holdings, LLC",VRT,VRT,Industrials,United States,NYQ,119619166208.0,^GSPC,0.17
+Viatris Inc.,VTRS,VTRS,Healthcare,United States,NMS,18842462208.0,^GSPC,0.03
+VICI Properties Inc.,VICI,VICI,Real Estate,United States,NYQ,28925376512.0,^GSPC,0.04
+Visa Inc.,V,V,Financial Services,United States,NYQ,667664187392.0,^GSPC,0.92
+Vistra Corp.,VST,VST,Utilities,United States,NYQ,51642867712.0,^GSPC,0.07
+Vulcan Materials Company (Holdi,VMC,VMC,Basic Materials,United States,NYQ,38281584640.0,^GSPC,0.05
+W.R. Berkley Corporation,WRB,WRB,Financial Services,United States,NYQ,26305075200.0,^GSPC,0.04
+"W.W. Grainger, Inc.",GWW,GWW,Industrials,United States,NYQ,63182483456.0,^GSPC,0.09
+Westinghouse Air Brake Technolo,WAB,WAB,Industrials,United States,NYQ,44794818560.0,^GSPC,0.06
+Walmart Inc.,WMT,WMT,Consumer Defensive,United States,NMS,865998143488.0,^GSPC,1.2
+Walt Disney Company (The),DIS,DIS,Communication Services,United States,NYQ,166201507840.0,^GSPC,0.23
+"Warner Bros. Discovery, Inc. - ",WBD,WBD,Communication Services,United States,NMS,67216334848.0,^GSPC,0.09
+"Waste Management, Inc.",WM,WM,Industrials,United States,NYQ,89985089536.0,^GSPC,0.12
+Waters Corporation,WAT,WAT,Healthcare,United States,NYQ,37127016448.0,^GSPC,0.05
+"WEC Energy Group, Inc.",WEC,WEC,Utilities,United States,NYQ,37855838208.0,^GSPC,0.05
+Wells Fargo & Company,WFC,WFC,Financial Services,United States,NYQ,262992691200.0,^GSPC,0.36
+Welltower Inc.,WELL,WELL,Real Estate,United States,NYQ,162494447616.0,^GSPC,0.22
+"West Pharmaceutical Services, I",WST,WST,Healthcare,United States,NYQ,25786372096.0,^GSPC,0.04
+Western Digital Corporation,WDC,WDC,Technology,United States,NMS,206247460864.0,^GSPC,0.29
+Weyerhaeuser Company,WY,WY,Real Estate,United States,NYQ,16987763712.0,^GSPC,0.02
+"Williams-Sonoma, Inc.",WSM,WSM,Consumer Cyclical,United States,NYQ,26863888384.0,^GSPC,0.04
+"Williams Companies, Inc. (The)",WMB,WMB,Energy,United States,NYQ,88997576704.0,^GSPC,0.12
+Willis Towers Watson Public Lim,WTW,WTW,Financial Services,United Kingdom,NMS,25976971264.0,^GSPC,0.04
+"Workday, Inc.",WDAY,WDAY,Technology,United States,NMS,32173236224.0,^GSPC,0.04
+"Wynn Resorts, Limited",WYNN,WYNN,Consumer Cyclical,United States,NMS,9974942720.0,^GSPC,0.01
+Xcel Energy Inc.,XEL,XEL,Utilities,United States,NMS,49754284032.0,^GSPC,0.07
+Xylem Inc.,XYL,XYL,Industrials,United States,NYQ,27874314240.0,^GSPC,0.04
+"Yum! Brands, Inc.",YUM,YUM,Consumer Cyclical,United States,NYQ,44537630720.0,^GSPC,0.06
+Zebra Technologies Corporation,ZBRA,ZBRA,Technology,United States,NMS,12758604800.0,^GSPC,0.02
+"Zimmer Biomet Holdings, Inc.",ZBH,ZBH,Healthcare,United States,NYQ,16283737088.0,^GSPC,0.02
+Zoetis Inc.,ZTS,ZTS,Healthcare,United States,NYQ,30373076992.0,^GSPC,0.04

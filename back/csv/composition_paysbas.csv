@@ -1,1 +1,26 @@
 short_name_stocks,ticker_stocks_yf,ticker_stocks,secteur_activite,pays_stocks,place_boursiere,capitalisation_boursiere,nom_indice,ticker_indice_yf,nombres_entreprises,ponderation
+ABN AMRO BANK N.V.,ABN.AS,ABN,Financial Services,Netherlands,AMS,30771972096,AEX-Index,^AEX,25,1.97
+ADYEN,ADYEN.AS,ADYEN,Technology,Netherlands,AMS,26676887552,AEX-Index,^AEX,25,1.7
+AEGON,AGN.AS,AGN,Financial Services,Netherlands,AMS,11446792192,AEX-Index,^AEX,25,0.73
+KONINKLIJKE AHOLD DELHAIZE N.V.,AD.AS,AD,Consumer Defensive,Netherlands,AMS,31722127360,AEX-Index,^AEX,25,2.03
+AKZO NOBEL,AKZA.AS,AKZA,Basic Materials,Netherlands,AMS,10288278528,AEX-Index,^AEX,25,0.66
+ARCELORMITTAL SA,MT.AS,MT,Basic Materials,Luxembourg,AMS,40747208704,AEX-Index,^AEX,25,2.6
+ASM International N.V.,ASM.AS,ASM,Technology,Netherlands,AMS,47008845824,AEX-Index,^AEX,25,3.0
+ASML HOLDING,ASML.AS,ASML,Technology,Netherlands,AMS,620753649664,AEX-Index,^AEX,25,39.64
+ASR NEDERLAND,ASRNL.AS,ASRNL,Financial Services,Netherlands,AMS,13748965376,AEX-Index,^AEX,25,0.88
+BE Semiconductor Industries N.V,BESI.AS,BESI,Technology,Netherlands,AMS,21754382336,AEX-Index,^AEX,25,1.39
+DSM FIRMENICH AG,DSFIR.AS,DSFIR,Basic Materials,Switzerland,AMS,20463749120,AEX-Index,^AEX,25,1.31
+EXOR,EXO.AS,EXO,Industrials,Netherlands,AMS,22382911488,AEX-Index,^AEX,25,1.43
+HEINEKEN,HEIA.AS,HEIA,Consumer Defensive,Netherlands,AMS,42124111872,AEX-Index,^AEX,25,2.69
+IMCD,IMCD.AS,IMCD,Basic Materials,Netherlands,AMS,4780478976,AEX-Index,^AEX,25,0.31
+ING GROEP N.V.,INGA.AS,INGA,Financial Services,Netherlands,AMS,80248078336,AEX-Index,^AEX,25,5.12
+KPN KON,KPN.AS,KPN,Communication Services,Netherlands,AMS,15877889024,AEX-Index,^AEX,25,1.01
+NN GROUP,NN.AS,NN,Financial Services,Netherlands,AMS,19895945216,AEX-Index,^AEX,25,1.27
+KON.PHILIPS N.V.,PHIA.AS,PHIA,Healthcare,Netherlands,AMS,23317864448,AEX-Index,^AEX,25,1.49
+PROSUS,PRX.AS,PRX,Consumer Cyclical,Netherlands,AMS,79477604352,AEX-Index,^AEX,25,5.08
+Randstad N.V.,RAND.AS,RAND,Industrials,Netherlands,AMS,4688009728,AEX-Index,^AEX,25,0.3
+RELX,REN.AS,REN,Industrials,United Kingdom,AMS,47502737408,AEX-Index,^AEX,25,3.03
+SHELL PLC,SHELL.AS,SHELL,Energy,United Kingdom,AMS,187270381568,AEX-Index,^AEX,25,11.96
+UNIVERSAL MUSIC GROUP,UMG.AS,UMG,Communication Services,Netherlands,AMS,34918744064,AEX-Index,^AEX,25,2.23
+UNILEVER PLC,UNA.AS,UNA,Consumer Defensive,United Kingdom,AMS,115467378688,AEX-Index,^AEX,25,7.37
+WOLTERS KLUWER,WKL.AS,WKL,Industrials,Netherlands,AMS,12602166272,AEX-Index,^AEX,25,0.8

@@ -98,7 +98,7 @@ def csv_indices(dossier_csv = "csv"):
     df_suede = get_stock_data(tickers_yf["Suède30"], "OMX Stockholm 30", "^OMXSPI", os.path.join(dossier_csv, "composition_suede.csv"))
     df_danemark = get_stock_data(tickers_yf["Danemark25"], "OMX Copenhagen 25", "^OMXC25", os.path.join(dossier_csv, "composition_danemark.csv"))
     df_stoxx50 = get_stock_data(tickers_yf["STOXX50"], "STOXX 50", "^STOXX50E", os.path.join(dossier_csv, "composition_europe50.csv"))
-    df_japon225 = get_stock_data(tickers_yf["Japon225"], "Nikkei 225", "^N225", os.path.join(dossier_csv, "composition_japon.csv"))
+    #df_japon225 = get_stock_data(tickers_yf["Japon225"], "Nikkei 225", "^N225", os.path.join(dossier_csv, "composition_japon.csv"))
 
     
 if __name__ == "__main__":

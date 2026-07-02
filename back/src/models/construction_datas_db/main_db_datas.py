@@ -25,7 +25,7 @@ from . import sql_datas # Pour créer la base de donnée sql
 
 def main_db_datas(dossier_csv = "csv", csv_bdd = "csv/csv_bdd"):
 
-    # Étape 1: Récupérer et sauvegarder les tickers de chaque indice et stocks au format yfinance
+    '''# Étape 1: Récupérer et sauvegarder les tickers de chaque indice et stocks au format yfinance
     scraping_tickers.all_tickers_yf()
     print("[1/12 ✅] Les tickers des indices et des stocks ont été récupérés et sauvegardés.")
 
@@ -50,7 +50,7 @@ def main_db_datas(dossier_csv = "csv", csv_bdd = "csv/csv_bdd"):
 
     # Étape 7: Récupérer et sauvegarder les informations des etfs
     infos_etfs.infos_etfs(csv_bdd)
-    print("[7/12 ✅] Les informations des etfs ont été récupérées et sauvegardées.")
+    print("[7/12 ✅] Les informations des etfs ont été récupérées et sauvegardées.")'''
     
     # Étape 8: Récupérer et sauvegarder l'historique des prix des indices
     hist_indices.recuperer_et_clean_indices(csv_bdd)

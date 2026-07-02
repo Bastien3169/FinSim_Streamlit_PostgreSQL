@@ -1,1 +1,41 @@
 short_name_stocks,ticker_stocks_yf,ticker_stocks,secteur_activite,pays_stocks,place_boursiere,capitalisation_boursiere,nom_indice,ticker_indice_yf,nombres_entreprises,ponderation
+adidas AG                     N,ADS.DE,ADS,Consumer Cyclical,Germany,GER,32419385344,DAX,^GDAXI,40,1.56
+AIRBUS SE,AIR.PA,AIR,Industrials,Netherlands,PAR,158232854528,DAX,^GDAXI,40,7.6
+Allianz SE                    v,ALV.DE,ALV,Financial Services,Germany,GER,158352015360,DAX,^GDAXI,40,7.6
+BASF SE                       N,BAS.DE,BAS,Basic Materials,Germany,GER,41664987136,DAX,^GDAXI,40,2.0
+Bayer AG                      N,BAYN.DE,BAYN,Healthcare,Germany,GER,51439726592,DAX,^GDAXI,40,2.47
+BEIERSDORF AG                 I,BEI.DE,BEI,Consumer Defensive,Germany,GER,16773883904,DAX,^GDAXI,40,0.81
+BAYERISCHE MOTOREN WERKE AG   S,BMW.DE,BMW,Consumer Cyclical,Germany,GER,36415553536,DAX,^GDAXI,40,1.75
+Brenntag SE                   N,BNR.DE,BNR,Basic Materials,Germany,GER,7840125952,DAX,^GDAXI,40,0.38
+Commerzbank AG                I,CBK.DE,CBK,Financial Services,Germany,GER,41130594304,DAX,^GDAXI,40,1.97
+CONTINENTAL AG                I,CON.DE,CON,Consumer Cyclical,Germany,GER,15000449024,DAX,^GDAXI,40,0.72
+Daimler Truck Holding AG      N,DTG.DE,DTG,Industrials,Germany,GER,32835915776,DAX,^GDAXI,40,1.58
+DEUTSCHE BANK AG              N,DBK.DE,DBK,Financial Services,Germany,GER,60503801856,DAX,^GDAXI,40,2.9
+DEUTSCHE BOERSE AG            N,DB1.DE,DB1,Financial Services,Germany,GER,44324585472,DAX,^GDAXI,40,2.13
+DEUTSCHE POST AG              N,DHL.DE,DHL,Industrials,Germany,GER,61804613632,DAX,^GDAXI,40,2.97
+DEUTSCHE TELEKOM AG           N,DTE.DE,DTE,Communication Services,Germany,GER,120998944768,DAX,^GDAXI,40,5.81
+E.ON SE                       N,EOAN.DE,EOAN,Utilities,Germany,GER,47087665152,DAX,^GDAXI,40,2.26
+Fresenius SE & Co. KGaA       I,FRE.DE,FRE,Healthcare,Germany,GER,23103991808,DAX,^GDAXI,40,1.11
+Fresenius Medical Care AG     I,FME.DE,FME,Healthcare,Germany,GER,10825840640,DAX,^GDAXI,40,0.52
+GEA Group AG                  I,G1A.DE,G1A,Industrials,Germany,GER,10012302336,DAX,^GDAXI,40,0.48
+HANNOVER RUECK SE NA O.N.,HNR1.DE,HNR1,Financial Services,Germany,GER,29498060800,DAX,^GDAXI,40,1.42
+Heidelberg Materials AG       I,HEI.DE,HEI,Basic Materials,Germany,GER,29602877440,DAX,^GDAXI,40,1.42
+Henkel AG & Co. KGaA          I,HEN3.DE,HEN3,Consumer Defensive,Germany,GER,30299416576,DAX,^GDAXI,40,1.45
+INFINEON TECHNOLOGIES AG      N,IFX.DE,IFX,Technology,Germany,GER,99515686912,DAX,^GDAXI,40,4.78
+Mercedes-Benz Group AG        N,MBG.DE,MBG,Consumer Cyclical,Germany,GER,42644271104,DAX,^GDAXI,40,2.05
+MERCK KGAA                    I,MRK.DE,MRK,Healthcare,Germany,GER,63586267136,DAX,^GDAXI,40,3.05
+MTU Aero Engines AG           N,MTX.DE,MTX,Industrials,Germany,GER,19960672256,DAX,^GDAXI,40,0.96
+MUENCHENER RUECKVERS.-GES. AG N,MUV2.DE,MUV2,Financial Services,Germany,GER,63430709248,DAX,^GDAXI,40,3.05
+Porsche Automobil Holding SE  I,PAH3.DE,PAH3,Consumer Cyclical,Germany,GER,8464749568,DAX,^GDAXI,40,0.41
+Qiagen N.V.                   A,QIA.DE,QIA,Healthcare,Netherlands,GER,7125937152,DAX,^GDAXI,40,0.34
+RHEINMETALL AG                I,RHM.DE,RHM,Industrials,Germany,GER,50665635840,DAX,^GDAXI,40,2.43
+RWE AG                        I,RWE.DE,RWE,Utilities,Germany,GER,39873998848,DAX,^GDAXI,40,1.91
+SAP SE                        I,SAP.DE,SAP,Technology,Germany,GER,163504963584,DAX,^GDAXI,40,7.85
+Scout24 SE                    N,G24.DE,G24,Communication Services,Germany,GER,5271839232,DAX,^GDAXI,40,0.25
+SIEMENS AG                    N,SIE.DE,SIE,Industrials,Germany,GER,207885697024,DAX,^GDAXI,40,9.98
+Siemens Energy AG             N,ENR.DE,ENR,Industrials,Germany,GER,137956589568,DAX,^GDAXI,40,6.62
+Siemens Healthineers AG       N,SHL.DE,SHL,Healthcare,Germany,GER,38287794176,DAX,^GDAXI,40,1.84
+Symrise AG                    I,SY1.DE,SY1,Basic Materials,Germany,GER,12685711360,DAX,^GDAXI,40,0.61
+VOLKSWAGEN AG                 V,VOW3.DE,VOW3,Consumer Cyclical,Germany,GER,36223598592,DAX,^GDAXI,40,1.74
+Vonovia SE                    N,VNA.DE,VNA,Real Estate,Germany,GER,18975029248,DAX,^GDAXI,40,0.91
+Zalando SE                    I,ZAL.DE,ZAL,Consumer Cyclical,Germany,GER,6696531456,DAX,^GDAXI,40,0.32
