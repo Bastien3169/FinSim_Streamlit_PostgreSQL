@@ -67,7 +67,17 @@ class FinanceDatabaseIndice:
                 ORDER BY s.short_name_stocks
                 """
                 df = pd.read_sql(query, conn, params=(selected_indice,))
-            return clean_df(df)
+
+            # DEBUG TEMPORAIRE
+            print(f"🔍 [{selected_indice}] Colonnes: {df.columns.tolist()}")
+            print(f"🔍 [{selected_indice}] Doublons: {df.columns[df.columns.duplicated()].tolist()}")
+            print(f"🔍 [{selected_indice}] NaN par colonne avant clean:\n{df.isna().sum()}")
+
+            df_clean = clean_df(df)
+
+            print(f"🔍 [{selected_indice}] NaN par colonne après clean:\n{df_clean.isna().sum()}")
+
+            return df_clean
         except Exception as e:
             print(f"Erreur: {e}")
             return pd.DataFrame()
