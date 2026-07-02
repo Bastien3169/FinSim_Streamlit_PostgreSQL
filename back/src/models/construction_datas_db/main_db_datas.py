@@ -50,7 +50,7 @@ def main_db_datas(dossier_csv = "csv", csv_bdd = "csv/csv_bdd"):
 
     # Étape 7: Récupérer et sauvegarder les informations des etfs
     infos_etfs.infos_etfs(csv_bdd)
-    print("[7/12 ✅] Les informations des etfs ont été récupérées et sauvegardées.")'''
+    print("[7/12 ✅] Les informations des etfs ont été récupérées et sauvegardées.")
     
     # Étape 8: Récupérer et sauvegarder l'historique des prix des indices
     hist_indices.recuperer_et_clean_indices(csv_bdd)
@@ -66,7 +66,7 @@ def main_db_datas(dossier_csv = "csv", csv_bdd = "csv/csv_bdd"):
     
     # Étape 11: Récupérer et sauvegarder l'historique des prix des etfs
     hist_etfs.hist_etfs(csv_bdd)
-    print("[11/12 ✅] L'historique des etfs a été récupéré et sauvegardé.")
+    print("[11/12 ✅] L'historique des etfs a été récupéré et sauvegardé.")'''
     
     # Étape 12 : Création de la base de donnée
     sql_datas.main_creation_db(csv_bdd)
