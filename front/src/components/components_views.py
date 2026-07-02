@@ -247,8 +247,14 @@ def display_multi_actifs_rendement_section(datas_indices,
     if rendement_key not in st.session_state:
         st.session_state[rendement_key] = pd.DataFrame()
     
+    tous_actifs = set(liste_indices + liste_stocks + liste_cryptos + liste_etfs)
+    defaults = [d for d in [indice_default, stock_default, crypto_default, etf_default] if d in tous_actifs]
+
     if selected_key not in st.session_state:
-        st.session_state[selected_key] = [indice_default, stock_default, crypto_default, etf_default]  # AJOUT etf_default
+        st.session_state[selected_key] = defaults
+    else:
+        actifs_valides = [a for a in st.session_state[selected_key] if a in tous_actifs]
+        st.session_state[selected_key] = actifs_valides if actifs_valides else defaults
     
     if weights_key not in st.session_state:
         st.session_state[weights_key] = {
@@ -455,7 +461,10 @@ def display_multi_actifs_rendement_section(datas_indices,
     if not st.session_state[rendement_key].empty and selected_actifs:
         cols_order = [f"{p} mois" for p in periods]
         cols_order = [c for c in cols_order if c in st.session_state[rendement_key].columns]
-        df_display = st.session_state[rendement_key][cols_order].loc[selected_actifs + ["📊 PORTEFEUILLE 📊"]]
+        actifs_valides = [a for a in selected_actifs if a in st.session_state[rendement_key].index]
+        if "📊 PORTEFEUILLE 📊" in st.session_state[rendement_key].index:
+            actifs_valides.append("📊 PORTEFEUILLE 📊")
+        df_display = st.session_state[rendement_key][cols_order].loc[actifs_valides]
         
         df_display.index.name = "Actifs"
         styled_df = style_rendement_func(df_display, periods)

@@ -30,7 +30,7 @@ def actifs_page(go_to):
     # ⭐ AJOUT : ETFs
     datas_etfs = FinanceDatabaseEtfs()
     liste_etfs = datas_etfs.get_list_etfs()
-    etf_default = "Amundi NYSE Arca Gold"
+    etf_default = "Amundi Gold Miners UCITS ETF Di"
     
     # ================= TITRE =================
     display_page_title("⚖️ COMPARAISON DES ACTIFS")
