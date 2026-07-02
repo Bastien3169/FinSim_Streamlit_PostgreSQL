@@ -3,7 +3,7 @@ import pandas as pd
 
 # Fonction utilitaire partagée
 def clean_df(df):
-    return df.where(df.notna(), None)
+    return df.astype(object).where(df.notna(), None)
 
 
 class FinanceDatabaseStocks:
