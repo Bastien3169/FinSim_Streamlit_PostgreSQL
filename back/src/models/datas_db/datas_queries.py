@@ -1,17 +1,20 @@
 from src.api_conn.database_conn import get_connection
 import pandas as pd
 
-################################## CONNEXION BD POUR STOCKS ##################################
+# Fonction utilitaire partagée
+def clean_df(df):
+    return df.where(df.notna(), None)
+
 
 class FinanceDatabaseStocks:
     def __init__(self):
         pass
-    
+
     def get_list_stocks(self):
         with get_connection() as conn:
             df = pd.read_sql("SELECT DISTINCT short_name_stocks FROM stocks_infos", conn)
         return df["short_name_stocks"].tolist()
-    
+
     def get_infos_stocks(self, short_name=None):
         with get_connection() as conn:
             query = "SELECT * FROM stocks_infos"
@@ -20,8 +23,7 @@ class FinanceDatabaseStocks:
                 df = pd.read_sql(query, conn, params=(short_name,))
             else:
                 df = pd.read_sql(query, conn)
-        # Plus besoin de drop_duplicates avec la nouvelle architecture
-        return df
+        return clean_df(df)
 
     def get_prix_date(self, actif):
         with get_connection() as conn:
@@ -30,39 +32,34 @@ class FinanceDatabaseStocks:
         if not df.empty:
             df["date"] = pd.to_datetime(df["date"], format="%d-%m-%Y")
             df = df.sort_values("date").reset_index(drop=True)
-        return df
+        return clean_df(df)
 
-  
-################################## CONNEXION BD POUR INDICES ##################################
 
 class FinanceDatabaseIndice:
     def __init__(self):
         pass
-        
+
     def get_list_indices(self):
         with get_connection() as conn:
             df = pd.read_sql("SELECT DISTINCT short_name_indice FROM indices_infos", conn)
         return df["short_name_indice"].tolist()
-    
+
     def get_infos_indices(self, selected_indice):
         with get_connection() as conn:
             df = pd.read_sql("SELECT * FROM indices_infos WHERE short_name_indice = %s", conn, params=(selected_indice,))
-        return df
+        return clean_df(df)
 
     def get_prix_date(self, selected_indice):
         with get_connection() as conn:
             query = "SELECT date, close FROM historique_indices WHERE short_name_indice = %s ORDER BY date"
             df = pd.read_sql(query, conn, params=(selected_indice,))
-        return df
+        return clean_df(df)
 
     def get_composition_indice(self, selected_indice):
         try:
             with get_connection() as conn:
-                # Utilise la table de liaison stocks_indices
                 query = """
-                SELECT 
-                    s.*,
-                    si.ponderation
+                SELECT s.*, si.ponderation
                 FROM stocks_infos s
                 JOIN stocks_indices si ON s.ticker_stocks_yf = si.ticker_stocks_yf
                 JOIN indices_infos i ON si.ticker_indice_yf = i.ticker_indice_yf
@@ -70,23 +67,21 @@ class FinanceDatabaseIndice:
                 ORDER BY s.short_name_stocks
                 """
                 df = pd.read_sql(query, conn, params=(selected_indice,))
-            return df
+            return clean_df(df)
         except Exception as e:
             print(f"Erreur: {e}")
             return pd.DataFrame()
 
 
-################################## CONNEXION BD POUR CRYPTOS ##################################
-
 class FinanceDatabaseCryptos:
     def __init__(self):
         pass
-    
+
     def get_list_cryptos(self):
         with get_connection() as conn:
             df = pd.read_sql("SELECT DISTINCT short_name_cryptos FROM cryptos_infos", conn)
         return df["short_name_cryptos"].tolist()
-    
+
     def get_infos_cryptos(self, short_name):
         with get_connection() as conn:
             query = "SELECT * FROM cryptos_infos"
@@ -96,26 +91,24 @@ class FinanceDatabaseCryptos:
             else:
                 df = pd.read_sql(query, conn)
         df = df.drop_duplicates(subset=["short_name_cryptos"])
-        return df
+        return clean_df(df)
 
     def get_prix_date(self, actif):
         with get_connection() as conn:
             query = "SELECT date, close FROM historique_cryptos WHERE short_name_cryptos = %s ORDER BY date"
             df = pd.read_sql(query, conn, params=(actif,))
-        return df
+        return clean_df(df)
 
-
-################################## CONNEXION BD POUR ETFs ##################################
 
 class FinanceDatabaseEtfs:
     def __init__(self):
         pass
-    
+
     def get_list_etfs(self):
         with get_connection() as conn:
             df = pd.read_sql("SELECT short_name_etf FROM etfs_infos", conn)
         return df["short_name_etf"].tolist()
-    
+
     def get_infos_etfs(self, short_name=None):
         with get_connection() as conn:
             query = "SELECT * FROM etfs_infos"
@@ -124,19 +117,16 @@ class FinanceDatabaseEtfs:
                 df = pd.read_sql(query, conn, params=(short_name,))
             else:
                 df = pd.read_sql(query, conn)
-        return df
+        return clean_df(df)
 
     def get_prix_date(self, actif):
         with get_connection() as conn:
             query = "SELECT date, close FROM historique_etfs WHERE short_name_etf = %s ORDER BY date"
             df = pd.read_sql(query, conn, params=(actif,))
-        return df
-    
+        return clean_df(df)
 
-####################################### CALCUL RENDEMENTS ACTIFS #######################################
 
 def calculate_rendement(df, periods):
-    """Calculer les rendements pour chaque période"""
     rendement = {}
     for period_months in periods:
         start_date = df["date"].max() - pd.DateOffset(months=period_months)
@@ -150,11 +140,8 @@ def calculate_rendement(df, periods):
     return rendement
 
 
-####################################### STYLE DU TABLEAU DE RENDEMENT #######################################
-
 def style_rendement(df, periods):
-    """Appliquer un style de couleur sur les rendements"""
     def color_rendement(val):
         color = 'green' if float(val) > 0 else ('red' if float(val) < 0 else 'black')
-        return f'color: {color}'  
+        return f'color: {color}'
     return df.style.map(color_rendement, subset=[f"{p} mois" for p in periods])

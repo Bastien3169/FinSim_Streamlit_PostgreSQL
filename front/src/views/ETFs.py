@@ -8,7 +8,7 @@ def etfs_page(go_to):
 
     # Variables de configuration
     ACTIF_TYPE = "etf"
-    ACTIF_DEFAULT = "Amundi NYSE Arca Gold"
+    ACTIF_DEFAULT = "Amundi Gold Miners UCITS ETF Di"
     
     datas_actif = FinanceDatabaseEtfs()
     liste_actif = datas_actif.get_list_etfs()
